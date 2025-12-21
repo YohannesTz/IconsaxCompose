@@ -1,6 +1,6 @@
 # Iconsax Compose
 
-[![JitPack](https://jitpack.io/v/yohannestz/iconsax-compose.svg)](https://jitpack.io/#yohannestz/iconsax-compose)
+[![](https://jitpack.io/v/YohannesTz/IconsaxCompose.svg)](https://jitpack.io/#YohannesTz/IconsaxCompose)
 
 A lightweight **Jetpack Compose icon library** providing the complete **Iconsax** icon set as strongly-typed, composable-friendly icons.
 
@@ -51,7 +51,7 @@ repositories {
 
 ```gradle
 dependencies {
-    implementation("com.github.yohannestz:iconsax-compose:<version>")
+    implementation 'com.github.YohannesTz:IconsaxCompose:1.0'
 }
 ```
 
