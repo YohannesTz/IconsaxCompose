@@ -9,6 +9,9 @@ Designed to feel native to Compose while staying simple, fast, and dependency-li
 
 ## Preview 
 
+https://github.com/user-attachments/assets/e8fe0bf7-3df9-4a61-bb9f-f5508ef134e7
+
+
 
 ## Features
 
