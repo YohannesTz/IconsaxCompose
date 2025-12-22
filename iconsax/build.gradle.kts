@@ -1,10 +1,10 @@
-import org.gradle.internal.os.OperatingSystem
 import javax.inject.Inject
 import org.gradle.process.ExecOperations
 
 plugins {
     alias(libs.plugins.android.library)
     alias(libs.plugins.kotlin.android)
+    id("maven-publish")
 }
 
 abstract class IconsaxExec @Inject constructor(
@@ -29,6 +29,12 @@ android {
     }
 
     kotlinOptions { jvmTarget = "11" }
+
+    publishing {
+        singleVariant("release") {
+            withSourcesJar()
+        }
+    }
 }
 
 val modes = listOf(
