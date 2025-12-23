@@ -1,998 +1,998 @@
 package com.github.yohannestz.iconsax_compose.iconsax
 
 object IconsaxBold {
-    val Aave = com.github.yohannestz.iconsax_compose.iconsax.bold.Aave
-    val Activity = com.github.yohannestz.iconsax_compose.iconsax.bold.Activity
-    val Add = com.github.yohannestz.iconsax_compose.iconsax.bold.Add
-    val AddCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.AddCircle
-    val AddSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.AddSquare
-    val Additem = com.github.yohannestz.iconsax_compose.iconsax.bold.Additem
-    val Airdrop = com.github.yohannestz.iconsax_compose.iconsax.bold.Airdrop
-    val Airplane = com.github.yohannestz.iconsax_compose.iconsax.bold.Airplane
-    val AirplaneSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.AirplaneSquare
-    val Airpod = com.github.yohannestz.iconsax_compose.iconsax.bold.Airpod
-    val Airpods = com.github.yohannestz.iconsax_compose.iconsax.bold.Airpods
-    val Alarm = com.github.yohannestz.iconsax_compose.iconsax.bold.Alarm
-    val AlignBottom = com.github.yohannestz.iconsax_compose.iconsax.bold.AlignBottom
-    val AlignHorizontally = com.github.yohannestz.iconsax_compose.iconsax.bold.AlignHorizontally
-    val AlignLeft = com.github.yohannestz.iconsax_compose.iconsax.bold.AlignLeft
-    val AlignRight = com.github.yohannestz.iconsax_compose.iconsax.bold.AlignRight
-    val AlignTop = com.github.yohannestz.iconsax_compose.iconsax.bold.AlignTop
-    val AlignVertically = com.github.yohannestz.iconsax_compose.iconsax.bold.AlignVertically
-    val Android = com.github.yohannestz.iconsax_compose.iconsax.bold.Android
-    val Ankr = com.github.yohannestz.iconsax_compose.iconsax.bold.Ankr
-    val Apple = com.github.yohannestz.iconsax_compose.iconsax.bold.Apple
-    val Aquarius = com.github.yohannestz.iconsax_compose.iconsax.bold.Aquarius
-    val Archive = com.github.yohannestz.iconsax_compose.iconsax.bold.Archive
-    val ArchiveAdd = com.github.yohannestz.iconsax_compose.iconsax.bold.ArchiveAdd
-    val ArchiveBook = com.github.yohannestz.iconsax_compose.iconsax.bold.ArchiveBook
-    val ArchiveBox = com.github.yohannestz.iconsax_compose.iconsax.bold.ArchiveBox
-    val ArchiveMinus = com.github.yohannestz.iconsax_compose.iconsax.bold.ArchiveMinus
-    val ArchiveSlash = com.github.yohannestz.iconsax_compose.iconsax.bold.ArchiveSlash
-    val ArchiveTick = com.github.yohannestz.iconsax_compose.iconsax.bold.ArchiveTick
-    val ArrangeHorizontal = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrangeHorizontal
-    val ArrangeHorizontalCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrangeHorizontalCircle
-    val ArrangeHorizontalSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrangeHorizontalSquare
-    val ArrangeVertical = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrangeVertical
-    val ArrangeVerticalCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrangeVerticalCircle
-    val ArrangeVerticalSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrangeVerticalSquare
-    val Arrow = com.github.yohannestz.iconsax_compose.iconsax.bold.Arrow
-    val ArrowCircleDown = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowCircleDown
-    val ArrowCircleDownTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowCircleDownTwo
-    val ArrowCircleLeft = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowCircleLeft
-    val ArrowCircleLeftTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowCircleLeftTwo
-    val ArrowCircleRight = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowCircleRight
-    val ArrowCircleRightTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowCircleRightTwo
-    val ArrowCircleUp = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowCircleUp
-    val ArrowCircleUpTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowCircleUpTwo
-    val ArrowDown = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowDown
-    val ArrowDownThree = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowDownThree
-    val ArrowDownTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowDownTwo
-    val ArrowForward = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowForward
-    val ArrowForwardSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowForwardSquare
-    val ArrowLeft = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowLeft
-    val ArrowLeftThree = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowLeftThree
-    val ArrowLeftTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowLeftTwo
-    val ArrowRight = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowRight
-    val ArrowRightThree = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowRightThree
-    val ArrowRightTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowRightTwo
-    val ArrowRotateLeft = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowRotateLeft
-    val ArrowRotateRight = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowRotateRight
-    val ArrowSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowSquare
-    val ArrowSquareDown = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowSquareDown
-    val ArrowSquareLeft = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowSquareLeft
-    val ArrowSquareRight = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowSquareRight
-    val ArrowSquareUp = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowSquareUp
-    val ArrowSwapHorizontal = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowSwapHorizontal
-    val ArrowSwapVertical = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowSwapVertical
-    val ArrowUp = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowUp
-    val ArrowUpThree = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowUpThree
-    val ArrowUpTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowUpTwo
-    val AttachCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.AttachCircle
-    val AttachSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.AttachSquare
-    val AudioSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.AudioSquare
-    val Augur = com.github.yohannestz.iconsax_compose.iconsax.bold.Augur
-    val Autobrightness = com.github.yohannestz.iconsax_compose.iconsax.bold.Autobrightness
-    val Autonio = com.github.yohannestz.iconsax_compose.iconsax.bold.Autonio
-    val Avalanche = com.github.yohannestz.iconsax_compose.iconsax.bold.Avalanche
-    val Award = com.github.yohannestz.iconsax_compose.iconsax.bold.Award
-    val Back = com.github.yohannestz.iconsax_compose.iconsax.bold.Back
-    val BackSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.BackSquare
-    val Backward = com.github.yohannestz.iconsax_compose.iconsax.bold.Backward
-    val BackwardFifteenSeconds = com.github.yohannestz.iconsax_compose.iconsax.bold.BackwardFifteenSeconds
-    val BackwardFiveSeconds = com.github.yohannestz.iconsax_compose.iconsax.bold.BackwardFiveSeconds
-    val BackwardItem = com.github.yohannestz.iconsax_compose.iconsax.bold.BackwardItem
-    val BackwardTenSeconds = com.github.yohannestz.iconsax_compose.iconsax.bold.BackwardTenSeconds
-    val Bag = com.github.yohannestz.iconsax_compose.iconsax.bold.Bag
-    val BagCross = com.github.yohannestz.iconsax_compose.iconsax.bold.BagCross
-    val BagCrossOne = com.github.yohannestz.iconsax_compose.iconsax.bold.BagCrossOne
-    val BagHappy = com.github.yohannestz.iconsax_compose.iconsax.bold.BagHappy
-    val BagTick = com.github.yohannestz.iconsax_compose.iconsax.bold.BagTick
-    val BagTickTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.BagTickTwo
-    val BagTimer = com.github.yohannestz.iconsax_compose.iconsax.bold.BagTimer
-    val BagTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.BagTwo
-    val Bank = com.github.yohannestz.iconsax_compose.iconsax.bold.Bank
-    val Barcode = com.github.yohannestz.iconsax_compose.iconsax.bold.Barcode
-    val BatteryCharging = com.github.yohannestz.iconsax_compose.iconsax.bold.BatteryCharging
-    val BatteryDisable = com.github.yohannestz.iconsax_compose.iconsax.bold.BatteryDisable
-    val BatteryEmpty = com.github.yohannestz.iconsax_compose.iconsax.bold.BatteryEmpty
-    val BatteryEmptyOne = com.github.yohannestz.iconsax_compose.iconsax.bold.BatteryEmptyOne
-    val BatteryFull = com.github.yohannestz.iconsax_compose.iconsax.bold.BatteryFull
-    val Be = com.github.yohannestz.iconsax_compose.iconsax.bold.Be
-    val Bezier = com.github.yohannestz.iconsax_compose.iconsax.bold.Bezier
-    val Bill = com.github.yohannestz.iconsax_compose.iconsax.bold.Bill
-    val BinanceCoin = com.github.yohannestz.iconsax_compose.iconsax.bold.BinanceCoin
-    val BinanceUsd = com.github.yohannestz.iconsax_compose.iconsax.bold.BinanceUsd
-    val Bitcoin = com.github.yohannestz.iconsax_compose.iconsax.bold.Bitcoin
-    val BitcoinCard = com.github.yohannestz.iconsax_compose.iconsax.bold.BitcoinCard
-    val BitcoinConvert = com.github.yohannestz.iconsax_compose.iconsax.bold.BitcoinConvert
-    val BitcoinRefresh = com.github.yohannestz.iconsax_compose.iconsax.bold.BitcoinRefresh
-    val Blend = com.github.yohannestz.iconsax_compose.iconsax.bold.Blend
-    val BlendTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.BlendTwo
-    val Blogger = com.github.yohannestz.iconsax_compose.iconsax.bold.Blogger
-    val Bluetooth = com.github.yohannestz.iconsax_compose.iconsax.bold.Bluetooth
-    val BluetoothCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.BluetoothCircle
-    val BluetoothRectangle = com.github.yohannestz.iconsax_compose.iconsax.bold.BluetoothRectangle
-    val BluetoothTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.BluetoothTwo
-    val Blur = com.github.yohannestz.iconsax_compose.iconsax.bold.Blur
-    val Book = com.github.yohannestz.iconsax_compose.iconsax.bold.Book
-    val BookOne = com.github.yohannestz.iconsax_compose.iconsax.bold.BookOne
-    val BookSaved = com.github.yohannestz.iconsax_compose.iconsax.bold.BookSaved
-    val BookSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.BookSquare
-    val Bookmark = com.github.yohannestz.iconsax_compose.iconsax.bold.Bookmark
-    val BookmarkTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.BookmarkTwo
-    val Bootstrap = com.github.yohannestz.iconsax_compose.iconsax.bold.Bootstrap
-    val Box = com.github.yohannestz.iconsax_compose.iconsax.bold.Box
-    val BoxAdd = com.github.yohannestz.iconsax_compose.iconsax.bold.BoxAdd
-    val BoxOne = com.github.yohannestz.iconsax_compose.iconsax.bold.BoxOne
-    val BoxRemove = com.github.yohannestz.iconsax_compose.iconsax.bold.BoxRemove
-    val BoxSearch = com.github.yohannestz.iconsax_compose.iconsax.bold.BoxSearch
-    val BoxTick = com.github.yohannestz.iconsax_compose.iconsax.bold.BoxTick
-    val BoxTime = com.github.yohannestz.iconsax_compose.iconsax.bold.BoxTime
-    val BoxTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.BoxTwo
-    val Briefcase = com.github.yohannestz.iconsax_compose.iconsax.bold.Briefcase
-    val BrifecaseCross = com.github.yohannestz.iconsax_compose.iconsax.bold.BrifecaseCross
-    val BrifecaseTick = com.github.yohannestz.iconsax_compose.iconsax.bold.BrifecaseTick
-    val BrifecaseTimer = com.github.yohannestz.iconsax_compose.iconsax.bold.BrifecaseTimer
-    val Brodcast = com.github.yohannestz.iconsax_compose.iconsax.bold.Brodcast
-    val Broom = com.github.yohannestz.iconsax_compose.iconsax.bold.Broom
-    val Brush = com.github.yohannestz.iconsax_compose.iconsax.bold.Brush
-    val BrushBig = com.github.yohannestz.iconsax_compose.iconsax.bold.BrushBig
-    val BrushSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.BrushSquare
-    val BrushThree = com.github.yohannestz.iconsax_compose.iconsax.bold.BrushThree
-    val BrushTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.BrushTwo
-    val Bubble = com.github.yohannestz.iconsax_compose.iconsax.bold.Bubble
-    val Bucket = com.github.yohannestz.iconsax_compose.iconsax.bold.Bucket
-    val BucketCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.BucketCircle
-    val BucketSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.BucketSquare
-    val Building = com.github.yohannestz.iconsax_compose.iconsax.bold.Building
-    val BuildingFour = com.github.yohannestz.iconsax_compose.iconsax.bold.BuildingFour
-    val BuildingThree = com.github.yohannestz.iconsax_compose.iconsax.bold.BuildingThree
-    val Buildings = com.github.yohannestz.iconsax_compose.iconsax.bold.Buildings
-    val BuildingsTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.BuildingsTwo
-    val Buliding = com.github.yohannestz.iconsax_compose.iconsax.bold.Buliding
-    val Bus = com.github.yohannestz.iconsax_compose.iconsax.bold.Bus
-    val BuyCrypto = com.github.yohannestz.iconsax_compose.iconsax.bold.BuyCrypto
-    val Cake = com.github.yohannestz.iconsax_compose.iconsax.bold.Cake
-    val Calculator = com.github.yohannestz.iconsax_compose.iconsax.bold.Calculator
-    val Calendar = com.github.yohannestz.iconsax_compose.iconsax.bold.Calendar
-    val CalendarAdd = com.github.yohannestz.iconsax_compose.iconsax.bold.CalendarAdd
-    val CalendarCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.CalendarCircle
-    val CalendarEdit = com.github.yohannestz.iconsax_compose.iconsax.bold.CalendarEdit
-    val CalendarOne = com.github.yohannestz.iconsax_compose.iconsax.bold.CalendarOne
-    val CalendarRemove = com.github.yohannestz.iconsax_compose.iconsax.bold.CalendarRemove
-    val CalendarSearch = com.github.yohannestz.iconsax_compose.iconsax.bold.CalendarSearch
-    val CalendarTick = com.github.yohannestz.iconsax_compose.iconsax.bold.CalendarTick
-    val CalendarTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.CalendarTwo
-    val Call = com.github.yohannestz.iconsax_compose.iconsax.bold.Call
-    val CallAdd = com.github.yohannestz.iconsax_compose.iconsax.bold.CallAdd
-    val CallCalling = com.github.yohannestz.iconsax_compose.iconsax.bold.CallCalling
-    val CallIncoming = com.github.yohannestz.iconsax_compose.iconsax.bold.CallIncoming
-    val CallMinus = com.github.yohannestz.iconsax_compose.iconsax.bold.CallMinus
-    val CallOutgoing = com.github.yohannestz.iconsax_compose.iconsax.bold.CallOutgoing
-    val CallReceived = com.github.yohannestz.iconsax_compose.iconsax.bold.CallReceived
-    val CallRemove = com.github.yohannestz.iconsax_compose.iconsax.bold.CallRemove
-    val CallSlash = com.github.yohannestz.iconsax_compose.iconsax.bold.CallSlash
-    val Camera = com.github.yohannestz.iconsax_compose.iconsax.bold.Camera
-    val CameraSlash = com.github.yohannestz.iconsax_compose.iconsax.bold.CameraSlash
-    val Candle = com.github.yohannestz.iconsax_compose.iconsax.bold.Candle
-    val CandleTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.CandleTwo
-    val Car = com.github.yohannestz.iconsax_compose.iconsax.bold.Car
-    val Card = com.github.yohannestz.iconsax_compose.iconsax.bold.Card
-    val CardAdd = com.github.yohannestz.iconsax_compose.iconsax.bold.CardAdd
-    val CardCoin = com.github.yohannestz.iconsax_compose.iconsax.bold.CardCoin
-    val CardEdit = com.github.yohannestz.iconsax_compose.iconsax.bold.CardEdit
-    val CardPos = com.github.yohannestz.iconsax_compose.iconsax.bold.CardPos
-    val CardReceive = com.github.yohannestz.iconsax_compose.iconsax.bold.CardReceive
-    val CardRemove = com.github.yohannestz.iconsax_compose.iconsax.bold.CardRemove
-    val CardRemoveOne = com.github.yohannestz.iconsax_compose.iconsax.bold.CardRemoveOne
-    val CardSend = com.github.yohannestz.iconsax_compose.iconsax.bold.CardSend
-    val CardSlash = com.github.yohannestz.iconsax_compose.iconsax.bold.CardSlash
-    val CardTick = com.github.yohannestz.iconsax_compose.iconsax.bold.CardTick
-    val CardTickOne = com.github.yohannestz.iconsax_compose.iconsax.bold.CardTickOne
-    val Cardano = com.github.yohannestz.iconsax_compose.iconsax.bold.Cardano
-    val Cards = com.github.yohannestz.iconsax_compose.iconsax.bold.Cards
-    val Category = com.github.yohannestz.iconsax_compose.iconsax.bold.Category
-    val CategoryTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.CategoryTwo
-    val Cd = com.github.yohannestz.iconsax_compose.iconsax.bold.Cd
-    val Celo = com.github.yohannestz.iconsax_compose.iconsax.bold.Celo
-    val Celsius = com.github.yohannestz.iconsax_compose.iconsax.bold.Celsius
-    val Chainlink = com.github.yohannestz.iconsax_compose.iconsax.bold.Chainlink
-    val Chart = com.github.yohannestz.iconsax_compose.iconsax.bold.Chart
-    val ChartCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.ChartCircle
-    val ChartFail = com.github.yohannestz.iconsax_compose.iconsax.bold.ChartFail
-    val ChartOne = com.github.yohannestz.iconsax_compose.iconsax.bold.ChartOne
-    val ChartSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.ChartSquare
-    val ChartSuccess = com.github.yohannestz.iconsax_compose.iconsax.bold.ChartSuccess
-    val ChartTwentyOne = com.github.yohannestz.iconsax_compose.iconsax.bold.ChartTwentyOne
-    val ChartTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.ChartTwo
-    val Check = com.github.yohannestz.iconsax_compose.iconsax.bold.Check
-    val ChemicalGlass = com.github.yohannestz.iconsax_compose.iconsax.bold.ChemicalGlass
-    val Chrome = com.github.yohannestz.iconsax_compose.iconsax.bold.Chrome
-    val Civic = com.github.yohannestz.iconsax_compose.iconsax.bold.Civic
-    val Clipboard = com.github.yohannestz.iconsax_compose.iconsax.bold.Clipboard
-    val ClipboardClose = com.github.yohannestz.iconsax_compose.iconsax.bold.ClipboardClose
-    val ClipboardExport = com.github.yohannestz.iconsax_compose.iconsax.bold.ClipboardExport
-    val ClipboardImport = com.github.yohannestz.iconsax_compose.iconsax.bold.ClipboardImport
-    val ClipboardText = com.github.yohannestz.iconsax_compose.iconsax.bold.ClipboardText
-    val ClipboardTick = com.github.yohannestz.iconsax_compose.iconsax.bold.ClipboardTick
-    val Clock = com.github.yohannestz.iconsax_compose.iconsax.bold.Clock
-    val CloseCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.CloseCircle
-    val CloseSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.CloseSquare
-    val Cloud = com.github.yohannestz.iconsax_compose.iconsax.bold.Cloud
-    val CloudAdd = com.github.yohannestz.iconsax_compose.iconsax.bold.CloudAdd
-    val CloudChange = com.github.yohannestz.iconsax_compose.iconsax.bold.CloudChange
-    val CloudConnection = com.github.yohannestz.iconsax_compose.iconsax.bold.CloudConnection
-    val CloudCross = com.github.yohannestz.iconsax_compose.iconsax.bold.CloudCross
-    val CloudDrizzle = com.github.yohannestz.iconsax_compose.iconsax.bold.CloudDrizzle
-    val CloudFog = com.github.yohannestz.iconsax_compose.iconsax.bold.CloudFog
-    val CloudLightning = com.github.yohannestz.iconsax_compose.iconsax.bold.CloudLightning
-    val CloudMinus = com.github.yohannestz.iconsax_compose.iconsax.bold.CloudMinus
-    val CloudNotif = com.github.yohannestz.iconsax_compose.iconsax.bold.CloudNotif
-    val CloudPlus = com.github.yohannestz.iconsax_compose.iconsax.bold.CloudPlus
-    val CloudRemove = com.github.yohannestz.iconsax_compose.iconsax.bold.CloudRemove
-    val CloudSnow = com.github.yohannestz.iconsax_compose.iconsax.bold.CloudSnow
-    val CloudSunny = com.github.yohannestz.iconsax_compose.iconsax.bold.CloudSunny
-    val Code = com.github.yohannestz.iconsax_compose.iconsax.bold.Code
-    val CodeCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.CodeCircle
-    val CodeOne = com.github.yohannestz.iconsax_compose.iconsax.bold.CodeOne
-    val Coffee = com.github.yohannestz.iconsax_compose.iconsax.bold.Coffee
-    val Coin = com.github.yohannestz.iconsax_compose.iconsax.bold.Coin
-    val CoinOne = com.github.yohannestz.iconsax_compose.iconsax.bold.CoinOne
-    val ColorSwatch = com.github.yohannestz.iconsax_compose.iconsax.bold.ColorSwatch
-    val Colorfilter = com.github.yohannestz.iconsax_compose.iconsax.bold.Colorfilter
-    val ColorsSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.ColorsSquare
-    val Command = com.github.yohannestz.iconsax_compose.iconsax.bold.Command
-    val CommandSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.CommandSquare
-    val Component = com.github.yohannestz.iconsax_compose.iconsax.bold.Component
-    val Computing = com.github.yohannestz.iconsax_compose.iconsax.bold.Computing
-    val Convert = com.github.yohannestz.iconsax_compose.iconsax.bold.Convert
-    val ConvertCard = com.github.yohannestz.iconsax_compose.iconsax.bold.ConvertCard
-    val ConvertThreedCube = com.github.yohannestz.iconsax_compose.iconsax.bold.ConvertThreedCube
-    val Convertshape = com.github.yohannestz.iconsax_compose.iconsax.bold.Convertshape
-    val ConvertshapeTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.ConvertshapeTwo
-    val Copy = com.github.yohannestz.iconsax_compose.iconsax.bold.Copy
-    val CopySuccess = com.github.yohannestz.iconsax_compose.iconsax.bold.CopySuccess
-    val Copyright = com.github.yohannestz.iconsax_compose.iconsax.bold.Copyright
-    val Courthouse = com.github.yohannestz.iconsax_compose.iconsax.bold.Courthouse
-    val Cpu = com.github.yohannestz.iconsax_compose.iconsax.bold.Cpu
-    val CpuCharge = com.github.yohannestz.iconsax_compose.iconsax.bold.CpuCharge
-    val CpuSetting = com.github.yohannestz.iconsax_compose.iconsax.bold.CpuSetting
-    val CreativeCommons = com.github.yohannestz.iconsax_compose.iconsax.bold.CreativeCommons
-    val Crop = com.github.yohannestz.iconsax_compose.iconsax.bold.Crop
-    val Crown = com.github.yohannestz.iconsax_compose.iconsax.bold.Crown
-    val CrownOne = com.github.yohannestz.iconsax_compose.iconsax.bold.CrownOne
-    val Cup = com.github.yohannestz.iconsax_compose.iconsax.bold.Cup
-    val Cut = com.github.yohannestz.iconsax_compose.iconsax.bold.Cut
-    val Dai = com.github.yohannestz.iconsax_compose.iconsax.bold.Dai
-    val Danger = com.github.yohannestz.iconsax_compose.iconsax.bold.Danger
-    val Dash = com.github.yohannestz.iconsax_compose.iconsax.bold.Dash
-    val Data = com.github.yohannestz.iconsax_compose.iconsax.bold.Data
-    val DataTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.DataTwo
-    val Decred = com.github.yohannestz.iconsax_compose.iconsax.bold.Decred
-    val Dent = com.github.yohannestz.iconsax_compose.iconsax.bold.Dent
-    val Designtools = com.github.yohannestz.iconsax_compose.iconsax.bold.Designtools
-    val DeviceMessage = com.github.yohannestz.iconsax_compose.iconsax.bold.DeviceMessage
-    val Devices = com.github.yohannestz.iconsax_compose.iconsax.bold.Devices
-    val Diagram = com.github.yohannestz.iconsax_compose.iconsax.bold.Diagram
-    val Diamonds = com.github.yohannestz.iconsax_compose.iconsax.bold.Diamonds
-    val Direct = com.github.yohannestz.iconsax_compose.iconsax.bold.Direct
-    val DirectDown = com.github.yohannestz.iconsax_compose.iconsax.bold.DirectDown
-    val DirectInbox = com.github.yohannestz.iconsax_compose.iconsax.bold.DirectInbox
-    val DirectLeft = com.github.yohannestz.iconsax_compose.iconsax.bold.DirectLeft
-    val DirectNormal = com.github.yohannestz.iconsax_compose.iconsax.bold.DirectNormal
-    val DirectNotification = com.github.yohannestz.iconsax_compose.iconsax.bold.DirectNotification
-    val DirectRight = com.github.yohannestz.iconsax_compose.iconsax.bold.DirectRight
-    val DirectSend = com.github.yohannestz.iconsax_compose.iconsax.bold.DirectSend
-    val DirectUp = com.github.yohannestz.iconsax_compose.iconsax.bold.DirectUp
-    val DirectboxDefault = com.github.yohannestz.iconsax_compose.iconsax.bold.DirectboxDefault
-    val DirectboxNotif = com.github.yohannestz.iconsax_compose.iconsax.bold.DirectboxNotif
-    val DirectboxReceive = com.github.yohannestz.iconsax_compose.iconsax.bold.DirectboxReceive
-    val DirectboxSend = com.github.yohannestz.iconsax_compose.iconsax.bold.DirectboxSend
-    val DiscountCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.DiscountCircle
-    val DiscountShape = com.github.yohannestz.iconsax_compose.iconsax.bold.DiscountShape
-    val Discover = com.github.yohannestz.iconsax_compose.iconsax.bold.Discover
-    val Dislike = com.github.yohannestz.iconsax_compose.iconsax.bold.Dislike
-    val Document = com.github.yohannestz.iconsax_compose.iconsax.bold.Document
-    val DocumentCloud = com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentCloud
-    val DocumentCode = com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentCode
-    val DocumentCodeTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentCodeTwo
-    val DocumentCopy = com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentCopy
-    val DocumentDownload = com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentDownload
-    val DocumentFavorite = com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentFavorite
-    val DocumentFilter = com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentFilter
-    val DocumentForward = com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentForward
-    val DocumentLike = com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentLike
-    val DocumentNormal = com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentNormal
-    val DocumentPrevious = com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentPrevious
-    val DocumentSketch = com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentSketch
-    val DocumentText = com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentText
-    val DocumentTextOne = com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentTextOne
-    val DocumentUpload = com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentUpload
-    val DollarCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.DollarCircle
-    val DollarSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.DollarSquare
-    val Dribbble = com.github.yohannestz.iconsax_compose.iconsax.bold.Dribbble
-    val Driver = com.github.yohannestz.iconsax_compose.iconsax.bold.Driver
-    val DriverRefresh = com.github.yohannestz.iconsax_compose.iconsax.bold.DriverRefresh
-    val DriverTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.DriverTwo
-    val Driving = com.github.yohannestz.iconsax_compose.iconsax.bold.Driving
-    val Drop = com.github.yohannestz.iconsax_compose.iconsax.bold.Drop
-    val Dropbox = com.github.yohannestz.iconsax_compose.iconsax.bold.Dropbox
-    val Edit = com.github.yohannestz.iconsax_compose.iconsax.bold.Edit
-    val EditTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.EditTwo
-    val Educare = com.github.yohannestz.iconsax_compose.iconsax.bold.Educare
-    val Electricity = com.github.yohannestz.iconsax_compose.iconsax.bold.Electricity
-    val Element = com.github.yohannestz.iconsax_compose.iconsax.bold.Element
-    val ElementEqual = com.github.yohannestz.iconsax_compose.iconsax.bold.ElementEqual
-    val ElementFour = com.github.yohannestz.iconsax_compose.iconsax.bold.ElementFour
-    val ElementPlus = com.github.yohannestz.iconsax_compose.iconsax.bold.ElementPlus
-    val ElementThree = com.github.yohannestz.iconsax_compose.iconsax.bold.ElementThree
-    val ElementTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.ElementTwo
-    val Emercoin = com.github.yohannestz.iconsax_compose.iconsax.bold.Emercoin
-    val EmojiHappy = com.github.yohannestz.iconsax_compose.iconsax.bold.EmojiHappy
-    val EmojiNormal = com.github.yohannestz.iconsax_compose.iconsax.bold.EmojiNormal
-    val EmojiSad = com.github.yohannestz.iconsax_compose.iconsax.bold.EmojiSad
-    val EmptyWallet = com.github.yohannestz.iconsax_compose.iconsax.bold.EmptyWallet
-    val EmptyWalletAdd = com.github.yohannestz.iconsax_compose.iconsax.bold.EmptyWalletAdd
-    val EmptyWalletChange = com.github.yohannestz.iconsax_compose.iconsax.bold.EmptyWalletChange
-    val EmptyWalletRemove = com.github.yohannestz.iconsax_compose.iconsax.bold.EmptyWalletRemove
-    val EmptyWalletTick = com.github.yohannestz.iconsax_compose.iconsax.bold.EmptyWalletTick
-    val EmptyWalletTime = com.github.yohannestz.iconsax_compose.iconsax.bold.EmptyWalletTime
-    val EnjinCoin = com.github.yohannestz.iconsax_compose.iconsax.bold.EnjinCoin
-    val Eos = com.github.yohannestz.iconsax_compose.iconsax.bold.Eos
-    val Eraser = com.github.yohannestz.iconsax_compose.iconsax.bold.Eraser
-    val EraserSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.EraserSquare
-    val Ethereum = com.github.yohannestz.iconsax_compose.iconsax.bold.Ethereum
-    val EthereumClassic = com.github.yohannestz.iconsax_compose.iconsax.bold.EthereumClassic
-    val Export = com.github.yohannestz.iconsax_compose.iconsax.bold.Export
-    val ExportCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.ExportCircle
-    val ExportCurve = com.github.yohannestz.iconsax_compose.iconsax.bold.ExportCurve
-    val ExportSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.ExportSquare
-    val ExternalDrive = com.github.yohannestz.iconsax_compose.iconsax.bold.ExternalDrive
-    val Eye = com.github.yohannestz.iconsax_compose.iconsax.bold.Eye
-    val EyeSlash = com.github.yohannestz.iconsax_compose.iconsax.bold.EyeSlash
-    val Facebook = com.github.yohannestz.iconsax_compose.iconsax.bold.Facebook
-    val Fatrows = com.github.yohannestz.iconsax_compose.iconsax.bold.Fatrows
-    val FavoriteChart = com.github.yohannestz.iconsax_compose.iconsax.bold.FavoriteChart
-    val Figma = com.github.yohannestz.iconsax_compose.iconsax.bold.Figma
-    val FigmaOne = com.github.yohannestz.iconsax_compose.iconsax.bold.FigmaOne
-    val Filter = com.github.yohannestz.iconsax_compose.iconsax.bold.Filter
-    val FilterAdd = com.github.yohannestz.iconsax_compose.iconsax.bold.FilterAdd
-    val FilterEdit = com.github.yohannestz.iconsax_compose.iconsax.bold.FilterEdit
-    val FilterRemove = com.github.yohannestz.iconsax_compose.iconsax.bold.FilterRemove
-    val FilterSearch = com.github.yohannestz.iconsax_compose.iconsax.bold.FilterSearch
-    val FilterSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.FilterSquare
-    val FilterTick = com.github.yohannestz.iconsax_compose.iconsax.bold.FilterTick
-    val FingerCricle = com.github.yohannestz.iconsax_compose.iconsax.bold.FingerCricle
-    val FingerScan = com.github.yohannestz.iconsax_compose.iconsax.bold.FingerScan
-    val Firstline = com.github.yohannestz.iconsax_compose.iconsax.bold.Firstline
-    val Flag = com.github.yohannestz.iconsax_compose.iconsax.bold.Flag
-    val FlagTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.FlagTwo
-    val Flash = com.github.yohannestz.iconsax_compose.iconsax.bold.Flash
-    val FlashCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.FlashCircle
-    val FlashSlash = com.github.yohannestz.iconsax_compose.iconsax.bold.FlashSlash
-    val Flashy = com.github.yohannestz.iconsax_compose.iconsax.bold.Flashy
-    val Folder = com.github.yohannestz.iconsax_compose.iconsax.bold.Folder
-    val FolderAdd = com.github.yohannestz.iconsax_compose.iconsax.bold.FolderAdd
-    val FolderCloud = com.github.yohannestz.iconsax_compose.iconsax.bold.FolderCloud
-    val FolderConnection = com.github.yohannestz.iconsax_compose.iconsax.bold.FolderConnection
-    val FolderCross = com.github.yohannestz.iconsax_compose.iconsax.bold.FolderCross
-    val FolderFavorite = com.github.yohannestz.iconsax_compose.iconsax.bold.FolderFavorite
-    val FolderMinus = com.github.yohannestz.iconsax_compose.iconsax.bold.FolderMinus
-    val FolderOpen = com.github.yohannestz.iconsax_compose.iconsax.bold.FolderOpen
-    val FolderTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.FolderTwo
-    val Forbidden = com.github.yohannestz.iconsax_compose.iconsax.bold.Forbidden
-    val ForbiddenTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.ForbiddenTwo
-    val FormatCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.FormatCircle
-    val FormatSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.FormatSquare
-    val Forward = com.github.yohannestz.iconsax_compose.iconsax.bold.Forward
-    val ForwardFifteenSeconds = com.github.yohannestz.iconsax_compose.iconsax.bold.ForwardFifteenSeconds
-    val ForwardFiveSeconds = com.github.yohannestz.iconsax_compose.iconsax.bold.ForwardFiveSeconds
-    val ForwardItem = com.github.yohannestz.iconsax_compose.iconsax.bold.ForwardItem
-    val ForwardTenSeconds = com.github.yohannestz.iconsax_compose.iconsax.bold.ForwardTenSeconds
-    val Framer = com.github.yohannestz.iconsax_compose.iconsax.bold.Framer
-    val FtxToken = com.github.yohannestz.iconsax_compose.iconsax.bold.FtxToken
-    val Gallery = com.github.yohannestz.iconsax_compose.iconsax.bold.Gallery
-    val GalleryAdd = com.github.yohannestz.iconsax_compose.iconsax.bold.GalleryAdd
-    val GalleryEdit = com.github.yohannestz.iconsax_compose.iconsax.bold.GalleryEdit
-    val GalleryExport = com.github.yohannestz.iconsax_compose.iconsax.bold.GalleryExport
-    val GalleryFavorite = com.github.yohannestz.iconsax_compose.iconsax.bold.GalleryFavorite
-    val GalleryImport = com.github.yohannestz.iconsax_compose.iconsax.bold.GalleryImport
-    val GalleryRemove = com.github.yohannestz.iconsax_compose.iconsax.bold.GalleryRemove
-    val GallerySlash = com.github.yohannestz.iconsax_compose.iconsax.bold.GallerySlash
-    val GalleryTick = com.github.yohannestz.iconsax_compose.iconsax.bold.GalleryTick
-    val Game = com.github.yohannestz.iconsax_compose.iconsax.bold.Game
-    val Gameboy = com.github.yohannestz.iconsax_compose.iconsax.bold.Gameboy
-    val GasStation = com.github.yohannestz.iconsax_compose.iconsax.bold.GasStation
-    val Gemini = com.github.yohannestz.iconsax_compose.iconsax.bold.Gemini
-    val GeminiTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.GeminiTwo
-    val Ghost = com.github.yohannestz.iconsax_compose.iconsax.bold.Ghost
-    val Gift = com.github.yohannestz.iconsax_compose.iconsax.bold.Gift
-    val Glass = com.github.yohannestz.iconsax_compose.iconsax.bold.Glass
-    val Global = com.github.yohannestz.iconsax_compose.iconsax.bold.Global
-    val GlobalEdit = com.github.yohannestz.iconsax_compose.iconsax.bold.GlobalEdit
-    val GlobalRefresh = com.github.yohannestz.iconsax_compose.iconsax.bold.GlobalRefresh
-    val GlobalSearch = com.github.yohannestz.iconsax_compose.iconsax.bold.GlobalSearch
-    val Google = com.github.yohannestz.iconsax_compose.iconsax.bold.Google
-    val GoogleDrive = com.github.yohannestz.iconsax_compose.iconsax.bold.GoogleDrive
-    val GooglePlay = com.github.yohannestz.iconsax_compose.iconsax.bold.GooglePlay
-    val Gps = com.github.yohannestz.iconsax_compose.iconsax.bold.Gps
-    val GpsSlash = com.github.yohannestz.iconsax_compose.iconsax.bold.GpsSlash
-    val Grammerly = com.github.yohannestz.iconsax_compose.iconsax.bold.Grammerly
-    val Graph = com.github.yohannestz.iconsax_compose.iconsax.bold.Graph
-    val GridEdit = com.github.yohannestz.iconsax_compose.iconsax.bold.GridEdit
-    val GridEight = com.github.yohannestz.iconsax_compose.iconsax.bold.GridEight
-    val GridEraser = com.github.yohannestz.iconsax_compose.iconsax.bold.GridEraser
-    val GridFive = com.github.yohannestz.iconsax_compose.iconsax.bold.GridFive
-    val GridFour = com.github.yohannestz.iconsax_compose.iconsax.bold.GridFour
-    val GridLock = com.github.yohannestz.iconsax_compose.iconsax.bold.GridLock
-    val GridNine = com.github.yohannestz.iconsax_compose.iconsax.bold.GridNine
-    val GridOne = com.github.yohannestz.iconsax_compose.iconsax.bold.GridOne
-    val GridSeven = com.github.yohannestz.iconsax_compose.iconsax.bold.GridSeven
-    val GridSix = com.github.yohannestz.iconsax_compose.iconsax.bold.GridSix
-    val GridThree = com.github.yohannestz.iconsax_compose.iconsax.bold.GridThree
-    val GridTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.GridTwo
-    val HamburgerMenu = com.github.yohannestz.iconsax_compose.iconsax.bold.HamburgerMenu
-    val Happyemoji = com.github.yohannestz.iconsax_compose.iconsax.bold.Happyemoji
-    val Harmony = com.github.yohannestz.iconsax_compose.iconsax.bold.Harmony
-    val Hashtag = com.github.yohannestz.iconsax_compose.iconsax.bold.Hashtag
-    val HashtagDown = com.github.yohannestz.iconsax_compose.iconsax.bold.HashtagDown
-    val HashtagSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.HashtagSquare
-    val HashtagUp = com.github.yohannestz.iconsax_compose.iconsax.bold.HashtagUp
-    val Headphone = com.github.yohannestz.iconsax_compose.iconsax.bold.Headphone
-    val Headphones = com.github.yohannestz.iconsax_compose.iconsax.bold.Headphones
-    val Health = com.github.yohannestz.iconsax_compose.iconsax.bold.Health
-    val Heart = com.github.yohannestz.iconsax_compose.iconsax.bold.Heart
-    val HeartAdd = com.github.yohannestz.iconsax_compose.iconsax.bold.HeartAdd
-    val HeartCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.HeartCircle
-    val HeartEdit = com.github.yohannestz.iconsax_compose.iconsax.bold.HeartEdit
-    val HeartRemove = com.github.yohannestz.iconsax_compose.iconsax.bold.HeartRemove
-    val HeartSearch = com.github.yohannestz.iconsax_compose.iconsax.bold.HeartSearch
-    val HeartSlash = com.github.yohannestz.iconsax_compose.iconsax.bold.HeartSlash
-    val HeartTick = com.github.yohannestz.iconsax_compose.iconsax.bold.HeartTick
-    val HederaHashgraph = com.github.yohannestz.iconsax_compose.iconsax.bold.HederaHashgraph
-    val Hex = com.github.yohannestz.iconsax_compose.iconsax.bold.Hex
-    val Hierarchy = com.github.yohannestz.iconsax_compose.iconsax.bold.Hierarchy
-    val HierarchySquare = com.github.yohannestz.iconsax_compose.iconsax.bold.HierarchySquare
-    val HierarchySquareThree = com.github.yohannestz.iconsax_compose.iconsax.bold.HierarchySquareThree
-    val HierarchySquareTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.HierarchySquareTwo
-    val HierarchyThree = com.github.yohannestz.iconsax_compose.iconsax.bold.HierarchyThree
-    val HierarchyTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.HierarchyTwo
-    val Home = com.github.yohannestz.iconsax_compose.iconsax.bold.Home
-    val HomeHashtag = com.github.yohannestz.iconsax_compose.iconsax.bold.HomeHashtag
-    val HomeThree = com.github.yohannestz.iconsax_compose.iconsax.bold.HomeThree
-    val HomeTrendDown = com.github.yohannestz.iconsax_compose.iconsax.bold.HomeTrendDown
-    val HomeTrendUp = com.github.yohannestz.iconsax_compose.iconsax.bold.HomeTrendUp
-    val HomeTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.HomeTwo
-    val HomeWifi = com.github.yohannestz.iconsax_compose.iconsax.bold.HomeWifi
-    val Hospital = com.github.yohannestz.iconsax_compose.iconsax.bold.Hospital
-    val House = com.github.yohannestz.iconsax_compose.iconsax.bold.House
-    val HouseTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.HouseTwo
-    val HtmlFive = com.github.yohannestz.iconsax_compose.iconsax.bold.HtmlFive
-    val HtmlThree = com.github.yohannestz.iconsax_compose.iconsax.bold.HtmlThree
-    val HuobiToken = com.github.yohannestz.iconsax_compose.iconsax.bold.HuobiToken
-    val Icon = com.github.yohannestz.iconsax_compose.iconsax.bold.Icon
-    val Illustrator = com.github.yohannestz.iconsax_compose.iconsax.bold.Illustrator
-    val Image = com.github.yohannestz.iconsax_compose.iconsax.bold.Image
-    val Import = com.github.yohannestz.iconsax_compose.iconsax.bold.Import
-    val ImportCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.ImportCircle
-    val ImportCurve = com.github.yohannestz.iconsax_compose.iconsax.bold.ImportCurve
-    val ImportSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.ImportSquare
-    val InfoCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.InfoCircle
-    val Information = com.github.yohannestz.iconsax_compose.iconsax.bold.Information
-    val Instagram = com.github.yohannestz.iconsax_compose.iconsax.bold.Instagram
-    val Iost = com.github.yohannestz.iconsax_compose.iconsax.bold.Iost
-    val JavaScript = com.github.yohannestz.iconsax_compose.iconsax.bold.JavaScript
-    val Js = com.github.yohannestz.iconsax_compose.iconsax.bold.Js
-    val Judge = com.github.yohannestz.iconsax_compose.iconsax.bold.Judge
-    val Kanban = com.github.yohannestz.iconsax_compose.iconsax.bold.Kanban
-    val Key = com.github.yohannestz.iconsax_compose.iconsax.bold.Key
-    val KeySquare = com.github.yohannestz.iconsax_compose.iconsax.bold.KeySquare
-    val Keyboard = com.github.yohannestz.iconsax_compose.iconsax.bold.Keyboard
-    val KeyboardOpen = com.github.yohannestz.iconsax_compose.iconsax.bold.KeyboardOpen
-    val KyberNetwork = com.github.yohannestz.iconsax_compose.iconsax.bold.KyberNetwork
-    val Lamp = com.github.yohannestz.iconsax_compose.iconsax.bold.Lamp
-    val LampCharge = com.github.yohannestz.iconsax_compose.iconsax.bold.LampCharge
-    val LampOn = com.github.yohannestz.iconsax_compose.iconsax.bold.LampOn
-    val LampSlash = com.github.yohannestz.iconsax_compose.iconsax.bold.LampSlash
-    val LanguageCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.LanguageCircle
-    val LanguageSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.LanguageSquare
-    val Layer = com.github.yohannestz.iconsax_compose.iconsax.bold.Layer
-    val LayoutMaximize = com.github.yohannestz.iconsax_compose.iconsax.bold.LayoutMaximize
-    val Level = com.github.yohannestz.iconsax_compose.iconsax.bold.Level
-    val Lifebuoy = com.github.yohannestz.iconsax_compose.iconsax.bold.Lifebuoy
-    val Like = com.github.yohannestz.iconsax_compose.iconsax.bold.Like
-    val LikeDislike = com.github.yohannestz.iconsax_compose.iconsax.bold.LikeDislike
-    val LikeOne = com.github.yohannestz.iconsax_compose.iconsax.bold.LikeOne
-    val LikeShapes = com.github.yohannestz.iconsax_compose.iconsax.bold.LikeShapes
-    val LikeTag = com.github.yohannestz.iconsax_compose.iconsax.bold.LikeTag
-    val Link = com.github.yohannestz.iconsax_compose.iconsax.bold.Link
-    val LinkCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.LinkCircle
-    val LinkOne = com.github.yohannestz.iconsax_compose.iconsax.bold.LinkOne
-    val LinkSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.LinkSquare
-    val LinkTwentyOne = com.github.yohannestz.iconsax_compose.iconsax.bold.LinkTwentyOne
-    val LinkTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.LinkTwo
-    val Litecoin = com.github.yohannestz.iconsax_compose.iconsax.bold.Litecoin
-    val Location = com.github.yohannestz.iconsax_compose.iconsax.bold.Location
-    val LocationAdd = com.github.yohannestz.iconsax_compose.iconsax.bold.LocationAdd
-    val LocationCross = com.github.yohannestz.iconsax_compose.iconsax.bold.LocationCross
-    val LocationDiscover = com.github.yohannestz.iconsax_compose.iconsax.bold.LocationDiscover
-    val LocationMinus = com.github.yohannestz.iconsax_compose.iconsax.bold.LocationMinus
-    val LocationSlash = com.github.yohannestz.iconsax_compose.iconsax.bold.LocationSlash
-    val LocationTick = com.github.yohannestz.iconsax_compose.iconsax.bold.LocationTick
-    val Lock = com.github.yohannestz.iconsax_compose.iconsax.bold.Lock
-    val LockCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.LockCircle
-    val LockOne = com.github.yohannestz.iconsax_compose.iconsax.bold.LockOne
-    val LockSlash = com.github.yohannestz.iconsax_compose.iconsax.bold.LockSlash
-    val Login = com.github.yohannestz.iconsax_compose.iconsax.bold.Login
-    val LoginCurve = com.github.yohannestz.iconsax_compose.iconsax.bold.LoginCurve
-    val Logout = com.github.yohannestz.iconsax_compose.iconsax.bold.Logout
-    val LogoutCurve = com.github.yohannestz.iconsax_compose.iconsax.bold.LogoutCurve
-    val Lovely = com.github.yohannestz.iconsax_compose.iconsax.bold.Lovely
-    val MagicStar = com.github.yohannestz.iconsax_compose.iconsax.bold.MagicStar
-    val Magicpen = com.github.yohannestz.iconsax_compose.iconsax.bold.Magicpen
-    val MainComponent = com.github.yohannestz.iconsax_compose.iconsax.bold.MainComponent
-    val Maker = com.github.yohannestz.iconsax_compose.iconsax.bold.Maker
-    val Man = com.github.yohannestz.iconsax_compose.iconsax.bold.Man
-    val Map = com.github.yohannestz.iconsax_compose.iconsax.bold.Map
-    val MapOne = com.github.yohannestz.iconsax_compose.iconsax.bold.MapOne
-    val Mask = com.github.yohannestz.iconsax_compose.iconsax.bold.Mask
-    val MaskLeft = com.github.yohannestz.iconsax_compose.iconsax.bold.MaskLeft
-    val MaskRight = com.github.yohannestz.iconsax_compose.iconsax.bold.MaskRight
-    val Math = com.github.yohannestz.iconsax_compose.iconsax.bold.Math
-    val Maximize = com.github.yohannestz.iconsax_compose.iconsax.bold.Maximize
-    val MaximizeCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.MaximizeCircle
-    val MaximizeFour = com.github.yohannestz.iconsax_compose.iconsax.bold.MaximizeFour
-    val MaximizeOne = com.github.yohannestz.iconsax_compose.iconsax.bold.MaximizeOne
-    val MaximizeThree = com.github.yohannestz.iconsax_compose.iconsax.bold.MaximizeThree
-    val MaximizeTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.MaximizeTwo
-    val Medal = com.github.yohannestz.iconsax_compose.iconsax.bold.Medal
-    val MedalStar = com.github.yohannestz.iconsax_compose.iconsax.bold.MedalStar
-    val Menu = com.github.yohannestz.iconsax_compose.iconsax.bold.Menu
-    val MenuBoard = com.github.yohannestz.iconsax_compose.iconsax.bold.MenuBoard
-    val Message = com.github.yohannestz.iconsax_compose.iconsax.bold.Message
-    val MessageAdd = com.github.yohannestz.iconsax_compose.iconsax.bold.MessageAdd
-    val MessageAddOne = com.github.yohannestz.iconsax_compose.iconsax.bold.MessageAddOne
-    val MessageCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.MessageCircle
-    val MessageEdit = com.github.yohannestz.iconsax_compose.iconsax.bold.MessageEdit
-    val MessageFavorite = com.github.yohannestz.iconsax_compose.iconsax.bold.MessageFavorite
-    val MessageMinus = com.github.yohannestz.iconsax_compose.iconsax.bold.MessageMinus
-    val MessageNotif = com.github.yohannestz.iconsax_compose.iconsax.bold.MessageNotif
-    val MessageProgramming = com.github.yohannestz.iconsax_compose.iconsax.bold.MessageProgramming
-    val MessageQuestion = com.github.yohannestz.iconsax_compose.iconsax.bold.MessageQuestion
-    val MessageRemove = com.github.yohannestz.iconsax_compose.iconsax.bold.MessageRemove
-    val MessageSearch = com.github.yohannestz.iconsax_compose.iconsax.bold.MessageSearch
-    val MessageSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.MessageSquare
-    val MessageText = com.github.yohannestz.iconsax_compose.iconsax.bold.MessageText
-    val MessageTextOne = com.github.yohannestz.iconsax_compose.iconsax.bold.MessageTextOne
-    val MessageTick = com.github.yohannestz.iconsax_compose.iconsax.bold.MessageTick
-    val MessageTime = com.github.yohannestz.iconsax_compose.iconsax.bold.MessageTime
-    val MessageTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.MessageTwo
-    val Messages = com.github.yohannestz.iconsax_compose.iconsax.bold.Messages
-    val MessagesOne = com.github.yohannestz.iconsax_compose.iconsax.bold.MessagesOne
-    val MessagesThree = com.github.yohannestz.iconsax_compose.iconsax.bold.MessagesThree
-    val MessagesTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.MessagesTwo
-    val Messenger = com.github.yohannestz.iconsax_compose.iconsax.bold.Messenger
-    val Microphone = com.github.yohannestz.iconsax_compose.iconsax.bold.Microphone
-    val MicrophoneSlash = com.github.yohannestz.iconsax_compose.iconsax.bold.MicrophoneSlash
-    val MicrophoneSlashOne = com.github.yohannestz.iconsax_compose.iconsax.bold.MicrophoneSlashOne
-    val MicrophoneTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.MicrophoneTwo
-    val Microscope = com.github.yohannestz.iconsax_compose.iconsax.bold.Microscope
-    val Milk = com.github.yohannestz.iconsax_compose.iconsax.bold.Milk
-    val MiniMusicSqaure = com.github.yohannestz.iconsax_compose.iconsax.bold.MiniMusicSqaure
-    val Minus = com.github.yohannestz.iconsax_compose.iconsax.bold.Minus
-    val MinusCirlce = com.github.yohannestz.iconsax_compose.iconsax.bold.MinusCirlce
-    val MinusSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.MinusSquare
-    val Mirror = com.github.yohannestz.iconsax_compose.iconsax.bold.Mirror
-    val MirroringScreen = com.github.yohannestz.iconsax_compose.iconsax.bold.MirroringScreen
-    val Mobile = com.github.yohannestz.iconsax_compose.iconsax.bold.Mobile
-    val MobileProgramming = com.github.yohannestz.iconsax_compose.iconsax.bold.MobileProgramming
-    val Monero = com.github.yohannestz.iconsax_compose.iconsax.bold.Monero
-    val Money = com.github.yohannestz.iconsax_compose.iconsax.bold.Money
-    val MoneyAdd = com.github.yohannestz.iconsax_compose.iconsax.bold.MoneyAdd
-    val MoneyArchive = com.github.yohannestz.iconsax_compose.iconsax.bold.MoneyArchive
-    val MoneyChange = com.github.yohannestz.iconsax_compose.iconsax.bold.MoneyChange
-    val MoneyForbidden = com.github.yohannestz.iconsax_compose.iconsax.bold.MoneyForbidden
-    val MoneyFour = com.github.yohannestz.iconsax_compose.iconsax.bold.MoneyFour
-    val MoneyRecive = com.github.yohannestz.iconsax_compose.iconsax.bold.MoneyRecive
-    val MoneyRemove = com.github.yohannestz.iconsax_compose.iconsax.bold.MoneyRemove
-    val MoneySend = com.github.yohannestz.iconsax_compose.iconsax.bold.MoneySend
-    val MoneyThree = com.github.yohannestz.iconsax_compose.iconsax.bold.MoneyThree
-    val MoneyTick = com.github.yohannestz.iconsax_compose.iconsax.bold.MoneyTick
-    val MoneyTime = com.github.yohannestz.iconsax_compose.iconsax.bold.MoneyTime
-    val MoneyTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.MoneyTwo
-    val Moneys = com.github.yohannestz.iconsax_compose.iconsax.bold.Moneys
-    val Monitor = com.github.yohannestz.iconsax_compose.iconsax.bold.Monitor
-    val MonitorMobbile = com.github.yohannestz.iconsax_compose.iconsax.bold.MonitorMobbile
-    val MonitorRecorder = com.github.yohannestz.iconsax_compose.iconsax.bold.MonitorRecorder
-    val Moon = com.github.yohannestz.iconsax_compose.iconsax.bold.Moon
-    val More = com.github.yohannestz.iconsax_compose.iconsax.bold.More
-    val MoreCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.MoreCircle
-    val MoreSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.MoreSquare
-    val MoreTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.MoreTwo
-    val Mouse = com.github.yohannestz.iconsax_compose.iconsax.bold.Mouse
-    val MouseCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.MouseCircle
-    val MouseSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.MouseSquare
-    val Music = com.github.yohannestz.iconsax_compose.iconsax.bold.Music
-    val MusicCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.MusicCircle
-    val MusicDashboard = com.github.yohannestz.iconsax_compose.iconsax.bold.MusicDashboard
-    val MusicFilter = com.github.yohannestz.iconsax_compose.iconsax.bold.MusicFilter
-    val MusicLibraryTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.MusicLibraryTwo
-    val MusicPlay = com.github.yohannestz.iconsax_compose.iconsax.bold.MusicPlay
-    val MusicPlaylist = com.github.yohannestz.iconsax_compose.iconsax.bold.MusicPlaylist
-    val MusicSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.MusicSquare
-    val MusicSquareAdd = com.github.yohannestz.iconsax_compose.iconsax.bold.MusicSquareAdd
-    val MusicSquareRemove = com.github.yohannestz.iconsax_compose.iconsax.bold.MusicSquareRemove
-    val MusicSquareSearch = com.github.yohannestz.iconsax_compose.iconsax.bold.MusicSquareSearch
-    val Musicnote = com.github.yohannestz.iconsax_compose.iconsax.bold.Musicnote
-    val Nebulas = com.github.yohannestz.iconsax_compose.iconsax.bold.Nebulas
-    val Nem = com.github.yohannestz.iconsax_compose.iconsax.bold.Nem
-    val Nexo = com.github.yohannestz.iconsax_compose.iconsax.bold.Nexo
-    val Next = com.github.yohannestz.iconsax_compose.iconsax.bold.Next
-    val Note = com.github.yohannestz.iconsax_compose.iconsax.bold.Note
-    val NoteAdd = com.github.yohannestz.iconsax_compose.iconsax.bold.NoteAdd
-    val NoteFavorite = com.github.yohannestz.iconsax_compose.iconsax.bold.NoteFavorite
-    val NoteOne = com.github.yohannestz.iconsax_compose.iconsax.bold.NoteOne
-    val NoteRemove = com.github.yohannestz.iconsax_compose.iconsax.bold.NoteRemove
-    val NoteSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.NoteSquare
-    val NoteText = com.github.yohannestz.iconsax_compose.iconsax.bold.NoteText
-    val Notepad = com.github.yohannestz.iconsax_compose.iconsax.bold.Notepad
-    val NotepadTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.NotepadTwo
-    val Notification = com.github.yohannestz.iconsax_compose.iconsax.bold.Notification
-    val NotificationBing = com.github.yohannestz.iconsax_compose.iconsax.bold.NotificationBing
-    val NotificationCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.NotificationCircle
-    val NotificationFavorite = com.github.yohannestz.iconsax_compose.iconsax.bold.NotificationFavorite
-    val NotificationOne = com.github.yohannestz.iconsax_compose.iconsax.bold.NotificationOne
-    val NotificationStatus = com.github.yohannestz.iconsax_compose.iconsax.bold.NotificationStatus
-    val OceanProtocol = com.github.yohannestz.iconsax_compose.iconsax.bold.OceanProtocol
-    val Okb = com.github.yohannestz.iconsax_compose.iconsax.bold.Okb
-    val Okru = com.github.yohannestz.iconsax_compose.iconsax.bold.Okru
-    val OmegaCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.OmegaCircle
-    val OmegaSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.OmegaSquare
-    val Ontology = com.github.yohannestz.iconsax_compose.iconsax.bold.Ontology
-    val Paintbucket = com.github.yohannestz.iconsax_compose.iconsax.bold.Paintbucket
-    val Paperclip = com.github.yohannestz.iconsax_compose.iconsax.bold.Paperclip
-    val PaperclipTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.PaperclipTwo
-    val PasswordCheck = com.github.yohannestz.iconsax_compose.iconsax.bold.PasswordCheck
-    val PathTool = com.github.yohannestz.iconsax_compose.iconsax.bold.PathTool
-    val PathToolSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.PathToolSquare
-    val PathToolTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.PathToolTwo
-    val Pause = com.github.yohannestz.iconsax_compose.iconsax.bold.Pause
-    val PauseCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.PauseCircle
-    val Paypal = com.github.yohannestz.iconsax_compose.iconsax.bold.Paypal
-    val PenAdd = com.github.yohannestz.iconsax_compose.iconsax.bold.PenAdd
-    val PenClose = com.github.yohannestz.iconsax_compose.iconsax.bold.PenClose
-    val PenRemove = com.github.yohannestz.iconsax_compose.iconsax.bold.PenRemove
-    val PenTool = com.github.yohannestz.iconsax_compose.iconsax.bold.PenTool
-    val PenToolTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.PenToolTwo
-    val People = com.github.yohannestz.iconsax_compose.iconsax.bold.People
-    val PercentageCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.PercentageCircle
-    val PercentageSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.PercentageSquare
-    val Personalcard = com.github.yohannestz.iconsax_compose.iconsax.bold.Personalcard
-    val Pet = com.github.yohannestz.iconsax_compose.iconsax.bold.Pet
-    val Pharagraphspacing = com.github.yohannestz.iconsax_compose.iconsax.bold.Pharagraphspacing
-    val Photoshop = com.github.yohannestz.iconsax_compose.iconsax.bold.Photoshop
-    val PictureFrame = com.github.yohannestz.iconsax_compose.iconsax.bold.PictureFrame
-    val Play = com.github.yohannestz.iconsax_compose.iconsax.bold.Play
-    val PlayAdd = com.github.yohannestz.iconsax_compose.iconsax.bold.PlayAdd
-    val PlayCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.PlayCircle
-    val PlayCricle = com.github.yohannestz.iconsax_compose.iconsax.bold.PlayCricle
-    val PlayRemove = com.github.yohannestz.iconsax_compose.iconsax.bold.PlayRemove
-    val Pointer = com.github.yohannestz.iconsax_compose.iconsax.bold.Pointer
-    val Polkadot = com.github.yohannestz.iconsax_compose.iconsax.bold.Polkadot
-    val Polygon = com.github.yohannestz.iconsax_compose.iconsax.bold.Polygon
-    val Polyswarm = com.github.yohannestz.iconsax_compose.iconsax.bold.Polyswarm
-    val PresentionChart = com.github.yohannestz.iconsax_compose.iconsax.bold.PresentionChart
-    val Previous = com.github.yohannestz.iconsax_compose.iconsax.bold.Previous
-    val Printer = com.github.yohannestz.iconsax_compose.iconsax.bold.Printer
-    val PrinterSlash = com.github.yohannestz.iconsax_compose.iconsax.bold.PrinterSlash
-    val Profile = com.github.yohannestz.iconsax_compose.iconsax.bold.Profile
-    val ProfileAdd = com.github.yohannestz.iconsax_compose.iconsax.bold.ProfileAdd
-    val ProfileCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.ProfileCircle
-    val ProfileDelete = com.github.yohannestz.iconsax_compose.iconsax.bold.ProfileDelete
-    val ProfileRemove = com.github.yohannestz.iconsax_compose.iconsax.bold.ProfileRemove
-    val ProfileTick = com.github.yohannestz.iconsax_compose.iconsax.bold.ProfileTick
-    val ProfileTwouser = com.github.yohannestz.iconsax_compose.iconsax.bold.ProfileTwouser
-    val ProgrammingArrow = com.github.yohannestz.iconsax_compose.iconsax.bold.ProgrammingArrow
-    val ProgrammingArrows = com.github.yohannestz.iconsax_compose.iconsax.bold.ProgrammingArrows
-    val Python = com.github.yohannestz.iconsax_compose.iconsax.bold.Python
-    val Quant = com.github.yohannestz.iconsax_compose.iconsax.bold.Quant
-    val QuoteDown = com.github.yohannestz.iconsax_compose.iconsax.bold.QuoteDown
-    val QuoteDownCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.QuoteDownCircle
-    val QuoteDownSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.QuoteDownSquare
-    val QuoteUp = com.github.yohannestz.iconsax_compose.iconsax.bold.QuoteUp
-    val QuoteUpCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.QuoteUpCircle
-    val QuoteUpSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.QuoteUpSquare
-    val Radar = com.github.yohannestz.iconsax_compose.iconsax.bold.Radar
-    val RadarTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.RadarTwo
-    val Radio = com.github.yohannestz.iconsax_compose.iconsax.bold.Radio
-    val Ram = com.github.yohannestz.iconsax_compose.iconsax.bold.Ram
-    val RamTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.RamTwo
-    val Rank = com.github.yohannestz.iconsax_compose.iconsax.bold.Rank
-    val Ranking = com.github.yohannestz.iconsax_compose.iconsax.bold.Ranking
-    val Receipt = com.github.yohannestz.iconsax_compose.iconsax.bold.Receipt
-    val ReceiptAdd = com.github.yohannestz.iconsax_compose.iconsax.bold.ReceiptAdd
-    val ReceiptDiscount = com.github.yohannestz.iconsax_compose.iconsax.bold.ReceiptDiscount
-    val ReceiptDisscount = com.github.yohannestz.iconsax_compose.iconsax.bold.ReceiptDisscount
-    val ReceiptEdit = com.github.yohannestz.iconsax_compose.iconsax.bold.ReceiptEdit
-    val ReceiptItem = com.github.yohannestz.iconsax_compose.iconsax.bold.ReceiptItem
-    val ReceiptMinus = com.github.yohannestz.iconsax_compose.iconsax.bold.ReceiptMinus
-    val ReceiptOne = com.github.yohannestz.iconsax_compose.iconsax.bold.ReceiptOne
-    val ReceiptSearch = com.github.yohannestz.iconsax_compose.iconsax.bold.ReceiptSearch
-    val ReceiptSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.ReceiptSquare
-    val ReceiptText = com.github.yohannestz.iconsax_compose.iconsax.bold.ReceiptText
-    val ReceiptTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.ReceiptTwo
-    val ReceiptTwoOne = com.github.yohannestz.iconsax_compose.iconsax.bold.ReceiptTwoOne
-    val Receive = com.github.yohannestz.iconsax_compose.iconsax.bold.Receive
-    val ReceiveSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.ReceiveSquare
-    val ReceiveSquareTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.ReceiveSquareTwo
-    val Record = com.github.yohannestz.iconsax_compose.iconsax.bold.Record
-    val RecordCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.RecordCircle
-    val RecoveryConvert = com.github.yohannestz.iconsax_compose.iconsax.bold.RecoveryConvert
-    val Refresh = com.github.yohannestz.iconsax_compose.iconsax.bold.Refresh
-    val RefreshCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.RefreshCircle
-    val RefreshLeftSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.RefreshLeftSquare
-    val RefreshRightSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.RefreshRightSquare
-    val RefreshSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.RefreshSquare
-    val RefreshTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.RefreshTwo
-    val Repeat = com.github.yohannestz.iconsax_compose.iconsax.bold.Repeat
-    val RepeatCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.RepeatCircle
-    val RepeateMusic = com.github.yohannestz.iconsax_compose.iconsax.bold.RepeateMusic
-    val RepeateOne = com.github.yohannestz.iconsax_compose.iconsax.bold.RepeateOne
-    val Reserve = com.github.yohannestz.iconsax_compose.iconsax.bold.Reserve
-    val RotateLeft = com.github.yohannestz.iconsax_compose.iconsax.bold.RotateLeft
-    val RotateRight = com.github.yohannestz.iconsax_compose.iconsax.bold.RotateRight
-    val RouteSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.RouteSquare
-    val Routing = com.github.yohannestz.iconsax_compose.iconsax.bold.Routing
-    val RoutingTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.RoutingTwo
-    val RowHorizontal = com.github.yohannestz.iconsax_compose.iconsax.bold.RowHorizontal
-    val RowVertical = com.github.yohannestz.iconsax_compose.iconsax.bold.RowVertical
-    val Ruler = com.github.yohannestz.iconsax_compose.iconsax.bold.Ruler
-    val RulerPen = com.github.yohannestz.iconsax_compose.iconsax.bold.RulerPen
-    val SafeHome = com.github.yohannestz.iconsax_compose.iconsax.bold.SafeHome
-    val Sagittarius = com.github.yohannestz.iconsax_compose.iconsax.bold.Sagittarius
-    val SaveAdd = com.github.yohannestz.iconsax_compose.iconsax.bold.SaveAdd
-    val SaveMinus = com.github.yohannestz.iconsax_compose.iconsax.bold.SaveMinus
-    val SaveRemove = com.github.yohannestz.iconsax_compose.iconsax.bold.SaveRemove
-    val SaveTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.SaveTwo
-    val Scan = com.github.yohannestz.iconsax_compose.iconsax.bold.Scan
-    val ScanBarcode = com.github.yohannestz.iconsax_compose.iconsax.bold.ScanBarcode
-    val Scanner = com.github.yohannestz.iconsax_compose.iconsax.bold.Scanner
-    val Scanning = com.github.yohannestz.iconsax_compose.iconsax.bold.Scanning
-    val Scissor = com.github.yohannestz.iconsax_compose.iconsax.bold.Scissor
-    val Screenmirroring = com.github.yohannestz.iconsax_compose.iconsax.bold.Screenmirroring
-    val Scroll = com.github.yohannestz.iconsax_compose.iconsax.bold.Scroll
-    val SearchFavorite = com.github.yohannestz.iconsax_compose.iconsax.bold.SearchFavorite
-    val SearchFavoriteOne = com.github.yohannestz.iconsax_compose.iconsax.bold.SearchFavoriteOne
-    val SearchNormal = com.github.yohannestz.iconsax_compose.iconsax.bold.SearchNormal
-    val SearchNormalOne = com.github.yohannestz.iconsax_compose.iconsax.bold.SearchNormalOne
-    val SearchStatus = com.github.yohannestz.iconsax_compose.iconsax.bold.SearchStatus
-    val SearchStatusOne = com.github.yohannestz.iconsax_compose.iconsax.bold.SearchStatusOne
-    val SearchZoomIn = com.github.yohannestz.iconsax_compose.iconsax.bold.SearchZoomIn
-    val SearchZoomInOne = com.github.yohannestz.iconsax_compose.iconsax.bold.SearchZoomInOne
-    val SearchZoomOut = com.github.yohannestz.iconsax_compose.iconsax.bold.SearchZoomOut
-    val SearchZoomOutOne = com.github.yohannestz.iconsax_compose.iconsax.bold.SearchZoomOutOne
-    val Security = com.github.yohannestz.iconsax_compose.iconsax.bold.Security
-    val SecurityCard = com.github.yohannestz.iconsax_compose.iconsax.bold.SecurityCard
-    val SecuritySafe = com.github.yohannestz.iconsax_compose.iconsax.bold.SecuritySafe
-    val SecurityTime = com.github.yohannestz.iconsax_compose.iconsax.bold.SecurityTime
-    val SecurityUser = com.github.yohannestz.iconsax_compose.iconsax.bold.SecurityUser
-    val Send = com.github.yohannestz.iconsax_compose.iconsax.bold.Send
-    val SendTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.SendTwo
-    val Setting = com.github.yohannestz.iconsax_compose.iconsax.bold.Setting
-    val SettingFive = com.github.yohannestz.iconsax_compose.iconsax.bold.SettingFive
-    val SettingFour = com.github.yohannestz.iconsax_compose.iconsax.bold.SettingFour
-    val SettingThree = com.github.yohannestz.iconsax_compose.iconsax.bold.SettingThree
-    val SettingTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.SettingTwo
-    val Settings = com.github.yohannestz.iconsax_compose.iconsax.bold.Settings
-    val Shapes = com.github.yohannestz.iconsax_compose.iconsax.bold.Shapes
-    val ShapesOne = com.github.yohannestz.iconsax_compose.iconsax.bold.ShapesOne
-    val Share = com.github.yohannestz.iconsax_compose.iconsax.bold.Share
-    val Shield = com.github.yohannestz.iconsax_compose.iconsax.bold.Shield
-    val ShieldCross = com.github.yohannestz.iconsax_compose.iconsax.bold.ShieldCross
-    val ShieldSearch = com.github.yohannestz.iconsax_compose.iconsax.bold.ShieldSearch
-    val ShieldSecurity = com.github.yohannestz.iconsax_compose.iconsax.bold.ShieldSecurity
-    val ShieldSlash = com.github.yohannestz.iconsax_compose.iconsax.bold.ShieldSlash
-    val ShieldTick = com.github.yohannestz.iconsax_compose.iconsax.bold.ShieldTick
-    val Ship = com.github.yohannestz.iconsax_compose.iconsax.bold.Ship
-    val Shop = com.github.yohannestz.iconsax_compose.iconsax.bold.Shop
-    val ShopAdd = com.github.yohannestz.iconsax_compose.iconsax.bold.ShopAdd
-    val ShopRemove = com.github.yohannestz.iconsax_compose.iconsax.bold.ShopRemove
-    val ShoppingBag = com.github.yohannestz.iconsax_compose.iconsax.bold.ShoppingBag
-    val ShoppingCart = com.github.yohannestz.iconsax_compose.iconsax.bold.ShoppingCart
-    val Shuffle = com.github.yohannestz.iconsax_compose.iconsax.bold.Shuffle
-    val Shutterstock = com.github.yohannestz.iconsax_compose.iconsax.bold.Shutterstock
-    val Siacoin = com.github.yohannestz.iconsax_compose.iconsax.bold.Siacoin
-    val SidebarBottom = com.github.yohannestz.iconsax_compose.iconsax.bold.SidebarBottom
-    val SidebarLeft = com.github.yohannestz.iconsax_compose.iconsax.bold.SidebarLeft
-    val SidebarRight = com.github.yohannestz.iconsax_compose.iconsax.bold.SidebarRight
-    val SidebarTop = com.github.yohannestz.iconsax_compose.iconsax.bold.SidebarTop
-    val Signpost = com.github.yohannestz.iconsax_compose.iconsax.bold.Signpost
-    val Simcard = com.github.yohannestz.iconsax_compose.iconsax.bold.Simcard
-    val SimcardOne = com.github.yohannestz.iconsax_compose.iconsax.bold.SimcardOne
-    val SimcardTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.SimcardTwo
-    val Size = com.github.yohannestz.iconsax_compose.iconsax.bold.Size
-    val Slack = com.github.yohannestz.iconsax_compose.iconsax.bold.Slack
-    val Slash = com.github.yohannestz.iconsax_compose.iconsax.bold.Slash
-    val Slider = com.github.yohannestz.iconsax_compose.iconsax.bold.Slider
-    val SliderHorizontal = com.github.yohannestz.iconsax_compose.iconsax.bold.SliderHorizontal
-    val SliderHorizontalOne = com.github.yohannestz.iconsax_compose.iconsax.bold.SliderHorizontalOne
-    val SliderVertical = com.github.yohannestz.iconsax_compose.iconsax.bold.SliderVertical
-    val SliderVerticalOne = com.github.yohannestz.iconsax_compose.iconsax.bold.SliderVerticalOne
-    val Smallcaps = com.github.yohannestz.iconsax_compose.iconsax.bold.Smallcaps
-    val SmartCar = com.github.yohannestz.iconsax_compose.iconsax.bold.SmartCar
-    val SmartHome = com.github.yohannestz.iconsax_compose.iconsax.bold.SmartHome
-    val Smileys = com.github.yohannestz.iconsax_compose.iconsax.bold.Smileys
-    val Sms = com.github.yohannestz.iconsax_compose.iconsax.bold.Sms
-    val SmsEdit = com.github.yohannestz.iconsax_compose.iconsax.bold.SmsEdit
-    val SmsNotification = com.github.yohannestz.iconsax_compose.iconsax.bold.SmsNotification
-    val SmsSearch = com.github.yohannestz.iconsax_compose.iconsax.bold.SmsSearch
-    val SmsStar = com.github.yohannestz.iconsax_compose.iconsax.bold.SmsStar
-    val SmsTracking = com.github.yohannestz.iconsax_compose.iconsax.bold.SmsTracking
-    val Snapchat = com.github.yohannestz.iconsax_compose.iconsax.bold.Snapchat
-    val Solana = com.github.yohannestz.iconsax_compose.iconsax.bold.Solana
-    val Sort = com.github.yohannestz.iconsax_compose.iconsax.bold.Sort
-    val Sound = com.github.yohannestz.iconsax_compose.iconsax.bold.Sound
-    val Speaker = com.github.yohannestz.iconsax_compose.iconsax.bold.Speaker
-    val Speedometer = com.github.yohannestz.iconsax_compose.iconsax.bold.Speedometer
-    val Spotify = com.github.yohannestz.iconsax_compose.iconsax.bold.Spotify
-    val Stacks = com.github.yohannestz.iconsax_compose.iconsax.bold.Stacks
-    val Star = com.github.yohannestz.iconsax_compose.iconsax.bold.Star
-    val StarOne = com.github.yohannestz.iconsax_compose.iconsax.bold.StarOne
-    val StarSlash = com.github.yohannestz.iconsax_compose.iconsax.bold.StarSlash
-    val Status = com.github.yohannestz.iconsax_compose.iconsax.bold.Status
-    val StatusUp = com.github.yohannestz.iconsax_compose.iconsax.bold.StatusUp
-    val Stellar = com.github.yohannestz.iconsax_compose.iconsax.bold.Stellar
-    val Sticker = com.github.yohannestz.iconsax_compose.iconsax.bold.Sticker
-    val Stickynote = com.github.yohannestz.iconsax_compose.iconsax.bold.Stickynote
-    val Stop = com.github.yohannestz.iconsax_compose.iconsax.bold.Stop
-    val StopCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.StopCircle
-    val Story = com.github.yohannestz.iconsax_compose.iconsax.bold.Story
-    val Strongbox = com.github.yohannestz.iconsax_compose.iconsax.bold.Strongbox
-    val StrongboxTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.StrongboxTwo
-    val Subtitle = com.github.yohannestz.iconsax_compose.iconsax.bold.Subtitle
-    val Sun = com.github.yohannestz.iconsax_compose.iconsax.bold.Sun
-    val SunFog = com.github.yohannestz.iconsax_compose.iconsax.bold.SunFog
-    val SunOne = com.github.yohannestz.iconsax_compose.iconsax.bold.SunOne
-    val TableDocument = com.github.yohannestz.iconsax_compose.iconsax.bold.TableDocument
-    val TableLamp = com.github.yohannestz.iconsax_compose.iconsax.bold.TableLamp
-    val Tag = com.github.yohannestz.iconsax_compose.iconsax.bold.Tag
-    val TagCross = com.github.yohannestz.iconsax_compose.iconsax.bold.TagCross
-    val TagRight = com.github.yohannestz.iconsax_compose.iconsax.bold.TagRight
-    val TagTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.TagTwo
-    val TagUser = com.github.yohannestz.iconsax_compose.iconsax.bold.TagUser
-    val Task = com.github.yohannestz.iconsax_compose.iconsax.bold.Task
-    val TaskSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.TaskSquare
-    val Teacher = com.github.yohannestz.iconsax_compose.iconsax.bold.Teacher
-    val Tenx = com.github.yohannestz.iconsax_compose.iconsax.bold.Tenx
-    val Tether = com.github.yohannestz.iconsax_compose.iconsax.bold.Tether
-    val Text = com.github.yohannestz.iconsax_compose.iconsax.bold.Text
-    val TextBlock = com.github.yohannestz.iconsax_compose.iconsax.bold.TextBlock
-    val TextBold = com.github.yohannestz.iconsax_compose.iconsax.bold.TextBold
-    val TextItalic = com.github.yohannestz.iconsax_compose.iconsax.bold.TextItalic
-    val TextUnderline = com.github.yohannestz.iconsax_compose.iconsax.bold.TextUnderline
-    val TextalignCenter = com.github.yohannestz.iconsax_compose.iconsax.bold.TextalignCenter
-    val TextalignJustifycenter = com.github.yohannestz.iconsax_compose.iconsax.bold.TextalignJustifycenter
-    val TextalignJustifyleft = com.github.yohannestz.iconsax_compose.iconsax.bold.TextalignJustifyleft
-    val TextalignJustifyright = com.github.yohannestz.iconsax_compose.iconsax.bold.TextalignJustifyright
-    val TextalignLeft = com.github.yohannestz.iconsax_compose.iconsax.bold.TextalignLeft
-    val TextalignRight = com.github.yohannestz.iconsax_compose.iconsax.bold.TextalignRight
-    val TheGraph = com.github.yohannestz.iconsax_compose.iconsax.bold.TheGraph
-    val Theta = com.github.yohannestz.iconsax_compose.iconsax.bold.Theta
-    val Thorchain = com.github.yohannestz.iconsax_compose.iconsax.bold.Thorchain
-    val ThreeDCubeScan = com.github.yohannestz.iconsax_compose.iconsax.bold.ThreeDCubeScan
-    val ThreeDRotate = com.github.yohannestz.iconsax_compose.iconsax.bold.ThreeDRotate
-    val ThreeDSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.ThreeDSquare
-    val Threedcube = com.github.yohannestz.iconsax_compose.iconsax.bold.Threedcube
-    val Threesquare = com.github.yohannestz.iconsax_compose.iconsax.bold.Threesquare
-    val TickCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.TickCircle
-    val TickSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.TickSquare
-    val Ticket = com.github.yohannestz.iconsax_compose.iconsax.bold.Ticket
-    val TicketDiscount = com.github.yohannestz.iconsax_compose.iconsax.bold.TicketDiscount
-    val TicketExpired = com.github.yohannestz.iconsax_compose.iconsax.bold.TicketExpired
-    val TicketStar = com.github.yohannestz.iconsax_compose.iconsax.bold.TicketStar
-    val TicketTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.TicketTwo
-    val Timer = com.github.yohannestz.iconsax_compose.iconsax.bold.Timer
-    val TimerOne = com.github.yohannestz.iconsax_compose.iconsax.bold.TimerOne
-    val TimerPause = com.github.yohannestz.iconsax_compose.iconsax.bold.TimerPause
-    val TimerStart = com.github.yohannestz.iconsax_compose.iconsax.bold.TimerStart
-    val ToggleOff = com.github.yohannestz.iconsax_compose.iconsax.bold.ToggleOff
-    val ToggleOffCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.ToggleOffCircle
-    val ToggleOn = com.github.yohannestz.iconsax_compose.iconsax.bold.ToggleOn
-    val ToggleOnCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.ToggleOnCircle
-    val Trade = com.github.yohannestz.iconsax_compose.iconsax.bold.Trade
-    val TransactionMinus = com.github.yohannestz.iconsax_compose.iconsax.bold.TransactionMinus
-    val Translate = com.github.yohannestz.iconsax_compose.iconsax.bold.Translate
-    val Transmit = com.github.yohannestz.iconsax_compose.iconsax.bold.Transmit
-    val TransmitSqaureTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.TransmitSqaureTwo
-    val TransmitSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.TransmitSquare
-    val Trash = com.github.yohannestz.iconsax_compose.iconsax.bold.Trash
-    val Tree = com.github.yohannestz.iconsax_compose.iconsax.bold.Tree
-    val Trello = com.github.yohannestz.iconsax_compose.iconsax.bold.Trello
-    val TrendDown = com.github.yohannestz.iconsax_compose.iconsax.bold.TrendDown
-    val TrendUp = com.github.yohannestz.iconsax_compose.iconsax.bold.TrendUp
-    val Triangle = com.github.yohannestz.iconsax_compose.iconsax.bold.Triangle
-    val TriangleLogo = com.github.yohannestz.iconsax_compose.iconsax.bold.TriangleLogo
-    val Trontron = com.github.yohannestz.iconsax_compose.iconsax.bold.Trontron
-    val Truck = com.github.yohannestz.iconsax_compose.iconsax.bold.Truck
-    val TruckFast = com.github.yohannestz.iconsax_compose.iconsax.bold.TruckFast
-    val TruckRemove = com.github.yohannestz.iconsax_compose.iconsax.bold.TruckRemove
-    val TruckTick = com.github.yohannestz.iconsax_compose.iconsax.bold.TruckTick
-    val TruckTime = com.github.yohannestz.iconsax_compose.iconsax.bold.TruckTime
-    val TrushSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.TrushSquare
-    val TwentyFourSupport = com.github.yohannestz.iconsax_compose.iconsax.bold.TwentyFourSupport
-    val Twitch = com.github.yohannestz.iconsax_compose.iconsax.bold.Twitch
-    val Uieight = com.github.yohannestz.iconsax_compose.iconsax.bold.Uieight
-    val Unlimited = com.github.yohannestz.iconsax_compose.iconsax.bold.Unlimited
-    val Unlock = com.github.yohannestz.iconsax_compose.iconsax.bold.Unlock
-    val UsdCoin = com.github.yohannestz.iconsax_compose.iconsax.bold.UsdCoin
-    val User = com.github.yohannestz.iconsax_compose.iconsax.bold.User
-    val UserAdd = com.github.yohannestz.iconsax_compose.iconsax.bold.UserAdd
-    val UserCirlceAdd = com.github.yohannestz.iconsax_compose.iconsax.bold.UserCirlceAdd
-    val UserEdit = com.github.yohannestz.iconsax_compose.iconsax.bold.UserEdit
-    val UserMinus = com.github.yohannestz.iconsax_compose.iconsax.bold.UserMinus
-    val UserOctagon = com.github.yohannestz.iconsax_compose.iconsax.bold.UserOctagon
-    val UserRemove = com.github.yohannestz.iconsax_compose.iconsax.bold.UserRemove
-    val UserSearch = com.github.yohannestz.iconsax_compose.iconsax.bold.UserSearch
-    val UserSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.UserSquare
-    val UserTag = com.github.yohannestz.iconsax_compose.iconsax.bold.UserTag
-    val UserTick = com.github.yohannestz.iconsax_compose.iconsax.bold.UserTick
-    val Velas = com.github.yohannestz.iconsax_compose.iconsax.bold.Velas
-    val Verify = com.github.yohannestz.iconsax_compose.iconsax.bold.Verify
-    val Vibe = com.github.yohannestz.iconsax_compose.iconsax.bold.Vibe
-    val Video = com.github.yohannestz.iconsax_compose.iconsax.bold.Video
-    val VideoAdd = com.github.yohannestz.iconsax_compose.iconsax.bold.VideoAdd
-    val VideoCircle = com.github.yohannestz.iconsax_compose.iconsax.bold.VideoCircle
-    val VideoHorizontal = com.github.yohannestz.iconsax_compose.iconsax.bold.VideoHorizontal
-    val VideoOctagon = com.github.yohannestz.iconsax_compose.iconsax.bold.VideoOctagon
-    val VideoPlay = com.github.yohannestz.iconsax_compose.iconsax.bold.VideoPlay
-    val VideoRemove = com.github.yohannestz.iconsax_compose.iconsax.bold.VideoRemove
-    val VideoSlash = com.github.yohannestz.iconsax_compose.iconsax.bold.VideoSlash
-    val VideoSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.VideoSquare
-    val VideoTick = com.github.yohannestz.iconsax_compose.iconsax.bold.VideoTick
-    val VideoTime = com.github.yohannestz.iconsax_compose.iconsax.bold.VideoTime
-    val VideoVertical = com.github.yohannestz.iconsax_compose.iconsax.bold.VideoVertical
-    val VoiceCricle = com.github.yohannestz.iconsax_compose.iconsax.bold.VoiceCricle
-    val VoiceSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.VoiceSquare
-    val Volume = com.github.yohannestz.iconsax_compose.iconsax.bold.Volume
-    val VolumeCross = com.github.yohannestz.iconsax_compose.iconsax.bold.VolumeCross
-    val VolumeHigh = com.github.yohannestz.iconsax_compose.iconsax.bold.VolumeHigh
-    val VolumeLow = com.github.yohannestz.iconsax_compose.iconsax.bold.VolumeLow
-    val VolumeLowOne = com.github.yohannestz.iconsax_compose.iconsax.bold.VolumeLowOne
-    val VolumeMute = com.github.yohannestz.iconsax_compose.iconsax.bold.VolumeMute
-    val VolumeSlash = com.github.yohannestz.iconsax_compose.iconsax.bold.VolumeSlash
-    val VolumeUp = com.github.yohannestz.iconsax_compose.iconsax.bold.VolumeUp
-    val Wallet = com.github.yohannestz.iconsax_compose.iconsax.bold.Wallet
-    val WalletAdd = com.github.yohannestz.iconsax_compose.iconsax.bold.WalletAdd
-    val WalletAddOne = com.github.yohannestz.iconsax_compose.iconsax.bold.WalletAddOne
-    val WalletCheck = com.github.yohannestz.iconsax_compose.iconsax.bold.WalletCheck
-    val WalletMinus = com.github.yohannestz.iconsax_compose.iconsax.bold.WalletMinus
-    val WalletMoney = com.github.yohannestz.iconsax_compose.iconsax.bold.WalletMoney
-    val WalletOne = com.github.yohannestz.iconsax_compose.iconsax.bold.WalletOne
-    val WalletRemove = com.github.yohannestz.iconsax_compose.iconsax.bold.WalletRemove
-    val WalletSearch = com.github.yohannestz.iconsax_compose.iconsax.bold.WalletSearch
-    val WalletThree = com.github.yohannestz.iconsax_compose.iconsax.bold.WalletThree
-    val WalletTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.WalletTwo
-    val Wanchain = com.github.yohannestz.iconsax_compose.iconsax.bold.Wanchain
-    val WanchainOne = com.github.yohannestz.iconsax_compose.iconsax.bold.WanchainOne
-    val WarningTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.WarningTwo
-    val Watch = com.github.yohannestz.iconsax_compose.iconsax.bold.Watch
-    val WatchStatus = com.github.yohannestz.iconsax_compose.iconsax.bold.WatchStatus
-    val Weight = com.github.yohannestz.iconsax_compose.iconsax.bold.Weight
-    val WeightMeter = com.github.yohannestz.iconsax_compose.iconsax.bold.WeightMeter
-    val Whatsapp = com.github.yohannestz.iconsax_compose.iconsax.bold.Whatsapp
-    val Wifi = com.github.yohannestz.iconsax_compose.iconsax.bold.Wifi
-    val WifiSquare = com.github.yohannestz.iconsax_compose.iconsax.bold.WifiSquare
-    val Wind = com.github.yohannestz.iconsax_compose.iconsax.bold.Wind
-    val WindTwo = com.github.yohannestz.iconsax_compose.iconsax.bold.WindTwo
-    val Windows = com.github.yohannestz.iconsax_compose.iconsax.bold.Windows
-    val Wing = com.github.yohannestz.iconsax_compose.iconsax.bold.Wing
-    val Woman = com.github.yohannestz.iconsax_compose.iconsax.bold.Woman
-    val WristClock = com.github.yohannestz.iconsax_compose.iconsax.bold.WristClock
-    val Xd = com.github.yohannestz.iconsax_compose.iconsax.bold.Xd
-    val Xiaomi = com.github.yohannestz.iconsax_compose.iconsax.bold.Xiaomi
-    val Xrp = com.github.yohannestz.iconsax_compose.iconsax.bold.Xrp
-    val Youtube = com.github.yohannestz.iconsax_compose.iconsax.bold.Youtube
-    val Zel = com.github.yohannestz.iconsax_compose.iconsax.bold.Zel
-    val Zoom = com.github.yohannestz.iconsax_compose.iconsax.bold.Zoom
+    val Aave by lazy {  com.github.yohannestz.iconsax_compose.iconsax.bold.Aave }
+    val Activity by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Activity }
+    val Add by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Add }
+    val AddCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.AddCircle }
+    val AddSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.AddSquare }
+    val Additem by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Additem }
+    val Airdrop by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Airdrop }
+    val Airplane by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Airplane }
+    val AirplaneSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.AirplaneSquare }
+    val Airpod by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Airpod }
+    val Airpods by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Airpods }
+    val Alarm by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Alarm }
+    val AlignBottom by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.AlignBottom }
+    val AlignHorizontally by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.AlignHorizontally }
+    val AlignLeft by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.AlignLeft }
+    val AlignRight by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.AlignRight }
+    val AlignTop by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.AlignTop }
+    val AlignVertically by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.AlignVertically }
+    val Android by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Android }
+    val Ankr by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Ankr }
+    val Apple by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Apple }
+    val Aquarius by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Aquarius }
+    val Archive by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Archive }
+    val ArchiveAdd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArchiveAdd }
+    val ArchiveBook by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArchiveBook }
+    val ArchiveBox by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArchiveBox }
+    val ArchiveMinus by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArchiveMinus }
+    val ArchiveSlash by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArchiveSlash }
+    val ArchiveTick by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArchiveTick }
+    val ArrangeHorizontal by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrangeHorizontal }
+    val ArrangeHorizontalCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrangeHorizontalCircle }
+    val ArrangeHorizontalSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrangeHorizontalSquare }
+    val ArrangeVertical by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrangeVertical }
+    val ArrangeVerticalCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrangeVerticalCircle }
+    val ArrangeVerticalSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrangeVerticalSquare }
+    val Arrow by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Arrow }
+    val ArrowCircleDown by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowCircleDown }
+    val ArrowCircleDownTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowCircleDownTwo }
+    val ArrowCircleLeft by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowCircleLeft }
+    val ArrowCircleLeftTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowCircleLeftTwo }
+    val ArrowCircleRight by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowCircleRight }
+    val ArrowCircleRightTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowCircleRightTwo }
+    val ArrowCircleUp by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowCircleUp }
+    val ArrowCircleUpTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowCircleUpTwo }
+    val ArrowDown by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowDown }
+    val ArrowDownThree by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowDownThree }
+    val ArrowDownTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowDownTwo }
+    val ArrowForward by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowForward }
+    val ArrowForwardSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowForwardSquare }
+    val ArrowLeft by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowLeft }
+    val ArrowLeftThree by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowLeftThree }
+    val ArrowLeftTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowLeftTwo }
+    val ArrowRight by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowRight }
+    val ArrowRightThree by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowRightThree }
+    val ArrowRightTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowRightTwo }
+    val ArrowRotateLeft by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowRotateLeft }
+    val ArrowRotateRight by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowRotateRight }
+    val ArrowSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowSquare }
+    val ArrowSquareDown by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowSquareDown }
+    val ArrowSquareLeft by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowSquareLeft }
+    val ArrowSquareRight by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowSquareRight }
+    val ArrowSquareUp by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowSquareUp }
+    val ArrowSwapHorizontal by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowSwapHorizontal }
+    val ArrowSwapVertical by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowSwapVertical }
+    val ArrowUp by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowUp }
+    val ArrowUpThree by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowUpThree }
+    val ArrowUpTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ArrowUpTwo }
+    val AttachCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.AttachCircle }
+    val AttachSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.AttachSquare }
+    val AudioSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.AudioSquare }
+    val Augur by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Augur }
+    val Autobrightness by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Autobrightness }
+    val Autonio by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Autonio }
+    val Avalanche by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Avalanche }
+    val Award by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Award }
+    val Back by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Back }
+    val BackSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BackSquare }
+    val Backward by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Backward }
+    val BackwardFifteenSeconds by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BackwardFifteenSeconds }
+    val BackwardFiveSeconds by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BackwardFiveSeconds }
+    val BackwardItem by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BackwardItem }
+    val BackwardTenSeconds by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BackwardTenSeconds }
+    val Bag by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Bag }
+    val BagCross by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BagCross }
+    val BagCrossOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BagCrossOne }
+    val BagHappy by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BagHappy }
+    val BagTick by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BagTick }
+    val BagTickTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BagTickTwo }
+    val BagTimer by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BagTimer }
+    val BagTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BagTwo }
+    val Bank by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Bank }
+    val Barcode by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Barcode }
+    val BatteryCharging by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BatteryCharging }
+    val BatteryDisable by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BatteryDisable }
+    val BatteryEmpty by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BatteryEmpty }
+    val BatteryEmptyOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BatteryEmptyOne }
+    val BatteryFull by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BatteryFull }
+    val Be by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Be }
+    val Bezier by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Bezier }
+    val Bill by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Bill }
+    val BinanceCoin by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BinanceCoin }
+    val BinanceUsd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BinanceUsd }
+    val Bitcoin by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Bitcoin }
+    val BitcoinCard by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BitcoinCard }
+    val BitcoinConvert by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BitcoinConvert }
+    val BitcoinRefresh by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BitcoinRefresh }
+    val Blend by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Blend }
+    val BlendTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BlendTwo }
+    val Blogger by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Blogger }
+    val Bluetooth by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Bluetooth }
+    val BluetoothCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BluetoothCircle }
+    val BluetoothRectangle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BluetoothRectangle }
+    val BluetoothTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BluetoothTwo }
+    val Blur by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Blur }
+    val Book by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Book }
+    val BookOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BookOne }
+    val BookSaved by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BookSaved }
+    val BookSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BookSquare }
+    val Bookmark by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Bookmark }
+    val BookmarkTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BookmarkTwo }
+    val Bootstrap by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Bootstrap }
+    val Box by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Box }
+    val BoxAdd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BoxAdd }
+    val BoxOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BoxOne }
+    val BoxRemove by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BoxRemove }
+    val BoxSearch by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BoxSearch }
+    val BoxTick by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BoxTick }
+    val BoxTime by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BoxTime }
+    val BoxTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BoxTwo }
+    val Briefcase by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Briefcase }
+    val BrifecaseCross by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BrifecaseCross }
+    val BrifecaseTick by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BrifecaseTick }
+    val BrifecaseTimer by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BrifecaseTimer }
+    val Brodcast by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Brodcast }
+    val Broom by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Broom }
+    val Brush by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Brush }
+    val BrushBig by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BrushBig }
+    val BrushSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BrushSquare }
+    val BrushThree by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BrushThree }
+    val BrushTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BrushTwo }
+    val Bubble by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Bubble }
+    val Bucket by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Bucket }
+    val BucketCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BucketCircle }
+    val BucketSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BucketSquare }
+    val Building by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Building }
+    val BuildingFour by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BuildingFour }
+    val BuildingThree by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BuildingThree }
+    val Buildings by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Buildings }
+    val BuildingsTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BuildingsTwo }
+    val Buliding by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Buliding }
+    val Bus by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Bus }
+    val BuyCrypto by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.BuyCrypto }
+    val Cake by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Cake }
+    val Calculator by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Calculator }
+    val Calendar by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Calendar }
+    val CalendarAdd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CalendarAdd }
+    val CalendarCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CalendarCircle }
+    val CalendarEdit by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CalendarEdit }
+    val CalendarOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CalendarOne }
+    val CalendarRemove by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CalendarRemove }
+    val CalendarSearch by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CalendarSearch }
+    val CalendarTick by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CalendarTick }
+    val CalendarTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CalendarTwo }
+    val Call by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Call }
+    val CallAdd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CallAdd }
+    val CallCalling by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CallCalling }
+    val CallIncoming by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CallIncoming }
+    val CallMinus by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CallMinus }
+    val CallOutgoing by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CallOutgoing }
+    val CallReceived by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CallReceived }
+    val CallRemove by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CallRemove }
+    val CallSlash by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CallSlash }
+    val Camera by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Camera }
+    val CameraSlash by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CameraSlash }
+    val Candle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Candle }
+    val CandleTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CandleTwo }
+    val Car by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Car }
+    val Card by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Card }
+    val CardAdd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CardAdd }
+    val CardCoin by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CardCoin }
+    val CardEdit by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CardEdit }
+    val CardPos by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CardPos }
+    val CardReceive by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CardReceive }
+    val CardRemove by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CardRemove }
+    val CardRemoveOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CardRemoveOne }
+    val CardSend by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CardSend }
+    val CardSlash by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CardSlash }
+    val CardTick by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CardTick }
+    val CardTickOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CardTickOne }
+    val Cardano by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Cardano }
+    val Cards by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Cards }
+    val Category by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Category }
+    val CategoryTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CategoryTwo }
+    val Cd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Cd }
+    val Celo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Celo }
+    val Celsius by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Celsius }
+    val Chainlink by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Chainlink }
+    val Chart by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Chart }
+    val ChartCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ChartCircle }
+    val ChartFail by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ChartFail }
+    val ChartOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ChartOne }
+    val ChartSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ChartSquare }
+    val ChartSuccess by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ChartSuccess }
+    val ChartTwentyOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ChartTwentyOne }
+    val ChartTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ChartTwo }
+    val Check by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Check }
+    val ChemicalGlass by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ChemicalGlass }
+    val Chrome by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Chrome }
+    val Civic by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Civic }
+    val Clipboard by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Clipboard }
+    val ClipboardClose by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ClipboardClose }
+    val ClipboardExport by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ClipboardExport }
+    val ClipboardImport by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ClipboardImport }
+    val ClipboardText by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ClipboardText }
+    val ClipboardTick by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ClipboardTick }
+    val Clock by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Clock }
+    val CloseCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CloseCircle }
+    val CloseSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CloseSquare }
+    val Cloud by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Cloud }
+    val CloudAdd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CloudAdd }
+    val CloudChange by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CloudChange }
+    val CloudConnection by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CloudConnection }
+    val CloudCross by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CloudCross }
+    val CloudDrizzle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CloudDrizzle }
+    val CloudFog by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CloudFog }
+    val CloudLightning by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CloudLightning }
+    val CloudMinus by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CloudMinus }
+    val CloudNotif by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CloudNotif }
+    val CloudPlus by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CloudPlus }
+    val CloudRemove by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CloudRemove }
+    val CloudSnow by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CloudSnow }
+    val CloudSunny by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CloudSunny }
+    val Code by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Code }
+    val CodeCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CodeCircle }
+    val CodeOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CodeOne }
+    val Coffee by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Coffee }
+    val Coin by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Coin }
+    val CoinOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CoinOne }
+    val ColorSwatch by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ColorSwatch }
+    val Colorfilter by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Colorfilter }
+    val ColorsSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ColorsSquare }
+    val Command by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Command }
+    val CommandSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CommandSquare }
+    val Component by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Component }
+    val Computing by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Computing }
+    val Convert by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Convert }
+    val ConvertCard by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ConvertCard }
+    val ConvertThreedCube by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ConvertThreedCube }
+    val Convertshape by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Convertshape }
+    val ConvertshapeTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ConvertshapeTwo }
+    val Copy by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Copy }
+    val CopySuccess by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CopySuccess }
+    val Copyright by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Copyright }
+    val Courthouse by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Courthouse }
+    val Cpu by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Cpu }
+    val CpuCharge by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CpuCharge }
+    val CpuSetting by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CpuSetting }
+    val CreativeCommons by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CreativeCommons }
+    val Crop by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Crop }
+    val Crown by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Crown }
+    val CrownOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.CrownOne }
+    val Cup by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Cup }
+    val Cut by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Cut }
+    val Dai by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Dai }
+    val Danger by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Danger }
+    val Dash by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Dash }
+    val Data by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Data }
+    val DataTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DataTwo }
+    val Decred by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Decred }
+    val Dent by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Dent }
+    val Designtools by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Designtools }
+    val DeviceMessage by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DeviceMessage }
+    val Devices by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Devices }
+    val Diagram by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Diagram }
+    val Diamonds by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Diamonds }
+    val Direct by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Direct }
+    val DirectDown by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DirectDown }
+    val DirectInbox by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DirectInbox }
+    val DirectLeft by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DirectLeft }
+    val DirectNormal by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DirectNormal }
+    val DirectNotification by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DirectNotification }
+    val DirectRight by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DirectRight }
+    val DirectSend by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DirectSend }
+    val DirectUp by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DirectUp }
+    val DirectboxDefault by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DirectboxDefault }
+    val DirectboxNotif by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DirectboxNotif }
+    val DirectboxReceive by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DirectboxReceive }
+    val DirectboxSend by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DirectboxSend }
+    val DiscountCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DiscountCircle }
+    val DiscountShape by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DiscountShape }
+    val Discover by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Discover }
+    val Dislike by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Dislike }
+    val Document by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Document }
+    val DocumentCloud by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentCloud }
+    val DocumentCode by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentCode }
+    val DocumentCodeTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentCodeTwo }
+    val DocumentCopy by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentCopy }
+    val DocumentDownload by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentDownload }
+    val DocumentFavorite by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentFavorite }
+    val DocumentFilter by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentFilter }
+    val DocumentForward by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentForward }
+    val DocumentLike by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentLike }
+    val DocumentNormal by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentNormal }
+    val DocumentPrevious by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentPrevious }
+    val DocumentSketch by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentSketch }
+    val DocumentText by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentText }
+    val DocumentTextOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentTextOne }
+    val DocumentUpload by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DocumentUpload }
+    val DollarCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DollarCircle }
+    val DollarSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DollarSquare }
+    val Dribbble by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Dribbble }
+    val Driver by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Driver }
+    val DriverRefresh by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DriverRefresh }
+    val DriverTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.DriverTwo }
+    val Driving by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Driving }
+    val Drop by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Drop }
+    val Dropbox by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Dropbox }
+    val Edit by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Edit }
+    val EditTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.EditTwo }
+    val Educare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Educare }
+    val Electricity by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Electricity }
+    val Element by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Element }
+    val ElementEqual by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ElementEqual }
+    val ElementFour by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ElementFour }
+    val ElementPlus by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ElementPlus }
+    val ElementThree by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ElementThree }
+    val ElementTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ElementTwo }
+    val Emercoin by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Emercoin }
+    val EmojiHappy by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.EmojiHappy }
+    val EmojiNormal by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.EmojiNormal }
+    val EmojiSad by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.EmojiSad }
+    val EmptyWallet by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.EmptyWallet }
+    val EmptyWalletAdd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.EmptyWalletAdd }
+    val EmptyWalletChange by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.EmptyWalletChange }
+    val EmptyWalletRemove by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.EmptyWalletRemove }
+    val EmptyWalletTick by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.EmptyWalletTick }
+    val EmptyWalletTime by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.EmptyWalletTime }
+    val EnjinCoin by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.EnjinCoin }
+    val Eos by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Eos }
+    val Eraser by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Eraser }
+    val EraserSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.EraserSquare }
+    val Ethereum by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Ethereum }
+    val EthereumClassic by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.EthereumClassic }
+    val Export by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Export }
+    val ExportCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ExportCircle }
+    val ExportCurve by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ExportCurve }
+    val ExportSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ExportSquare }
+    val ExternalDrive by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ExternalDrive }
+    val Eye by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Eye }
+    val EyeSlash by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.EyeSlash }
+    val Facebook by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Facebook }
+    val Fatrows by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Fatrows }
+    val FavoriteChart by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.FavoriteChart }
+    val Figma by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Figma }
+    val FigmaOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.FigmaOne }
+    val Filter by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Filter }
+    val FilterAdd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.FilterAdd }
+    val FilterEdit by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.FilterEdit }
+    val FilterRemove by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.FilterRemove }
+    val FilterSearch by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.FilterSearch }
+    val FilterSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.FilterSquare }
+    val FilterTick by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.FilterTick }
+    val FingerCricle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.FingerCricle }
+    val FingerScan by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.FingerScan }
+    val Firstline by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Firstline }
+    val Flag by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Flag }
+    val FlagTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.FlagTwo }
+    val Flash by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Flash }
+    val FlashCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.FlashCircle }
+    val FlashSlash by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.FlashSlash }
+    val Flashy by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Flashy }
+    val Folder by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Folder }
+    val FolderAdd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.FolderAdd }
+    val FolderCloud by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.FolderCloud }
+    val FolderConnection by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.FolderConnection }
+    val FolderCross by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.FolderCross }
+    val FolderFavorite by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.FolderFavorite }
+    val FolderMinus by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.FolderMinus }
+    val FolderOpen by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.FolderOpen }
+    val FolderTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.FolderTwo }
+    val Forbidden by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Forbidden }
+    val ForbiddenTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ForbiddenTwo }
+    val FormatCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.FormatCircle }
+    val FormatSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.FormatSquare }
+    val Forward by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Forward }
+    val ForwardFifteenSeconds by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ForwardFifteenSeconds }
+    val ForwardFiveSeconds by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ForwardFiveSeconds }
+    val ForwardItem by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ForwardItem }
+    val ForwardTenSeconds by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ForwardTenSeconds }
+    val Framer by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Framer }
+    val FtxToken by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.FtxToken }
+    val Gallery by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Gallery }
+    val GalleryAdd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.GalleryAdd }
+    val GalleryEdit by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.GalleryEdit }
+    val GalleryExport by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.GalleryExport }
+    val GalleryFavorite by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.GalleryFavorite }
+    val GalleryImport by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.GalleryImport }
+    val GalleryRemove by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.GalleryRemove }
+    val GallerySlash by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.GallerySlash }
+    val GalleryTick by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.GalleryTick }
+    val Game by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Game }
+    val Gameboy by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Gameboy }
+    val GasStation by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.GasStation }
+    val Gemini by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Gemini }
+    val GeminiTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.GeminiTwo }
+    val Ghost by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Ghost }
+    val Gift by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Gift }
+    val Glass by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Glass }
+    val Global by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Global }
+    val GlobalEdit by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.GlobalEdit }
+    val GlobalRefresh by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.GlobalRefresh }
+    val GlobalSearch by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.GlobalSearch }
+    val Google by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Google }
+    val GoogleDrive by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.GoogleDrive }
+    val GooglePlay by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.GooglePlay }
+    val Gps by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Gps }
+    val GpsSlash by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.GpsSlash }
+    val Grammerly by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Grammerly }
+    val Graph by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Graph }
+    val GridEdit by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.GridEdit }
+    val GridEight by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.GridEight }
+    val GridEraser by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.GridEraser }
+    val GridFive by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.GridFive }
+    val GridFour by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.GridFour }
+    val GridLock by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.GridLock }
+    val GridNine by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.GridNine }
+    val GridOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.GridOne }
+    val GridSeven by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.GridSeven }
+    val GridSix by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.GridSix }
+    val GridThree by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.GridThree }
+    val GridTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.GridTwo }
+    val HamburgerMenu by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.HamburgerMenu }
+    val Happyemoji by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Happyemoji }
+    val Harmony by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Harmony }
+    val Hashtag by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Hashtag }
+    val HashtagDown by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.HashtagDown }
+    val HashtagSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.HashtagSquare }
+    val HashtagUp by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.HashtagUp }
+    val Headphone by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Headphone }
+    val Headphones by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Headphones }
+    val Health by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Health }
+    val Heart by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Heart }
+    val HeartAdd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.HeartAdd }
+    val HeartCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.HeartCircle }
+    val HeartEdit by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.HeartEdit }
+    val HeartRemove by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.HeartRemove }
+    val HeartSearch by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.HeartSearch }
+    val HeartSlash by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.HeartSlash }
+    val HeartTick by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.HeartTick }
+    val HederaHashgraph by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.HederaHashgraph }
+    val Hex by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Hex }
+    val Hierarchy by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Hierarchy }
+    val HierarchySquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.HierarchySquare }
+    val HierarchySquareThree by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.HierarchySquareThree }
+    val HierarchySquareTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.HierarchySquareTwo }
+    val HierarchyThree by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.HierarchyThree }
+    val HierarchyTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.HierarchyTwo }
+    val Home by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Home }
+    val HomeHashtag by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.HomeHashtag }
+    val HomeThree by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.HomeThree }
+    val HomeTrendDown by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.HomeTrendDown }
+    val HomeTrendUp by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.HomeTrendUp }
+    val HomeTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.HomeTwo }
+    val HomeWifi by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.HomeWifi }
+    val Hospital by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Hospital }
+    val House by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.House }
+    val HouseTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.HouseTwo }
+    val HtmlFive by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.HtmlFive }
+    val HtmlThree by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.HtmlThree }
+    val HuobiToken by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.HuobiToken }
+    val Icon by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Icon }
+    val Illustrator by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Illustrator }
+    val Image by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Image }
+    val Import by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Import }
+    val ImportCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ImportCircle }
+    val ImportCurve by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ImportCurve }
+    val ImportSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ImportSquare }
+    val InfoCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.InfoCircle }
+    val Information by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Information }
+    val Instagram by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Instagram }
+    val Iost by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Iost }
+    val JavaScript by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.JavaScript }
+    val Js by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Js }
+    val Judge by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Judge }
+    val Kanban by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Kanban }
+    val Key by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Key }
+    val KeySquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.KeySquare }
+    val Keyboard by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Keyboard }
+    val KeyboardOpen by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.KeyboardOpen }
+    val KyberNetwork by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.KyberNetwork }
+    val Lamp by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Lamp }
+    val LampCharge by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.LampCharge }
+    val LampOn by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.LampOn }
+    val LampSlash by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.LampSlash }
+    val LanguageCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.LanguageCircle }
+    val LanguageSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.LanguageSquare }
+    val Layer by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Layer }
+    val LayoutMaximize by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.LayoutMaximize }
+    val Level by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Level }
+    val Lifebuoy by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Lifebuoy }
+    val Like by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Like }
+    val LikeDislike by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.LikeDislike }
+    val LikeOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.LikeOne }
+    val LikeShapes by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.LikeShapes }
+    val LikeTag by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.LikeTag }
+    val Link by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Link }
+    val LinkCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.LinkCircle }
+    val LinkOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.LinkOne }
+    val LinkSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.LinkSquare }
+    val LinkTwentyOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.LinkTwentyOne }
+    val LinkTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.LinkTwo }
+    val Litecoin by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Litecoin }
+    val Location by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Location }
+    val LocationAdd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.LocationAdd }
+    val LocationCross by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.LocationCross }
+    val LocationDiscover by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.LocationDiscover }
+    val LocationMinus by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.LocationMinus }
+    val LocationSlash by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.LocationSlash }
+    val LocationTick by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.LocationTick }
+    val Lock by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Lock }
+    val LockCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.LockCircle }
+    val LockOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.LockOne }
+    val LockSlash by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.LockSlash }
+    val Login by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Login }
+    val LoginCurve by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.LoginCurve }
+    val Logout by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Logout }
+    val LogoutCurve by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.LogoutCurve }
+    val Lovely by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Lovely }
+    val MagicStar by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MagicStar }
+    val Magicpen by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Magicpen }
+    val MainComponent by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MainComponent }
+    val Maker by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Maker }
+    val Man by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Man }
+    val Map by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Map }
+    val MapOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MapOne }
+    val Mask by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Mask }
+    val MaskLeft by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MaskLeft }
+    val MaskRight by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MaskRight }
+    val Math by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Math }
+    val Maximize by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Maximize }
+    val MaximizeCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MaximizeCircle }
+    val MaximizeFour by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MaximizeFour }
+    val MaximizeOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MaximizeOne }
+    val MaximizeThree by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MaximizeThree }
+    val MaximizeTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MaximizeTwo }
+    val Medal by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Medal }
+    val MedalStar by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MedalStar }
+    val Menu by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Menu }
+    val MenuBoard by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MenuBoard }
+    val Message by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Message }
+    val MessageAdd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MessageAdd }
+    val MessageAddOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MessageAddOne }
+    val MessageCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MessageCircle }
+    val MessageEdit by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MessageEdit }
+    val MessageFavorite by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MessageFavorite }
+    val MessageMinus by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MessageMinus }
+    val MessageNotif by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MessageNotif }
+    val MessageProgramming by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MessageProgramming }
+    val MessageQuestion by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MessageQuestion }
+    val MessageRemove by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MessageRemove }
+    val MessageSearch by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MessageSearch }
+    val MessageSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MessageSquare }
+    val MessageText by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MessageText }
+    val MessageTextOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MessageTextOne }
+    val MessageTick by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MessageTick }
+    val MessageTime by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MessageTime }
+    val MessageTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MessageTwo }
+    val Messages by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Messages }
+    val MessagesOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MessagesOne }
+    val MessagesThree by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MessagesThree }
+    val MessagesTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MessagesTwo }
+    val Messenger by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Messenger }
+    val Microphone by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Microphone }
+    val MicrophoneSlash by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MicrophoneSlash }
+    val MicrophoneSlashOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MicrophoneSlashOne }
+    val MicrophoneTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MicrophoneTwo }
+    val Microscope by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Microscope }
+    val Milk by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Milk }
+    val MiniMusicSqaure by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MiniMusicSqaure }
+    val Minus by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Minus }
+    val MinusCirlce by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MinusCirlce }
+    val MinusSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MinusSquare }
+    val Mirror by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Mirror }
+    val MirroringScreen by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MirroringScreen }
+    val Mobile by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Mobile }
+    val MobileProgramming by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MobileProgramming }
+    val Monero by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Monero }
+    val Money by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Money }
+    val MoneyAdd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MoneyAdd }
+    val MoneyArchive by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MoneyArchive }
+    val MoneyChange by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MoneyChange }
+    val MoneyForbidden by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MoneyForbidden }
+    val MoneyFour by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MoneyFour }
+    val MoneyRecive by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MoneyRecive }
+    val MoneyRemove by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MoneyRemove }
+    val MoneySend by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MoneySend }
+    val MoneyThree by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MoneyThree }
+    val MoneyTick by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MoneyTick }
+    val MoneyTime by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MoneyTime }
+    val MoneyTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MoneyTwo }
+    val Moneys by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Moneys }
+    val Monitor by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Monitor }
+    val MonitorMobbile by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MonitorMobbile }
+    val MonitorRecorder by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MonitorRecorder }
+    val Moon by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Moon }
+    val More by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.More }
+    val MoreCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MoreCircle }
+    val MoreSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MoreSquare }
+    val MoreTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MoreTwo }
+    val Mouse by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Mouse }
+    val MouseCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MouseCircle }
+    val MouseSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MouseSquare }
+    val Music by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Music }
+    val MusicCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MusicCircle }
+    val MusicDashboard by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MusicDashboard }
+    val MusicFilter by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MusicFilter }
+    val MusicLibraryTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MusicLibraryTwo }
+    val MusicPlay by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MusicPlay }
+    val MusicPlaylist by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MusicPlaylist }
+    val MusicSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MusicSquare }
+    val MusicSquareAdd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MusicSquareAdd }
+    val MusicSquareRemove by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MusicSquareRemove }
+    val MusicSquareSearch by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.MusicSquareSearch }
+    val Musicnote by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Musicnote }
+    val Nebulas by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Nebulas }
+    val Nem by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Nem }
+    val Nexo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Nexo }
+    val Next by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Next }
+    val Note by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Note }
+    val NoteAdd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.NoteAdd }
+    val NoteFavorite by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.NoteFavorite }
+    val NoteOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.NoteOne }
+    val NoteRemove by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.NoteRemove }
+    val NoteSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.NoteSquare }
+    val NoteText by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.NoteText }
+    val Notepad by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Notepad }
+    val NotepadTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.NotepadTwo }
+    val Notification by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Notification }
+    val NotificationBing by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.NotificationBing }
+    val NotificationCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.NotificationCircle }
+    val NotificationFavorite by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.NotificationFavorite }
+    val NotificationOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.NotificationOne }
+    val NotificationStatus by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.NotificationStatus }
+    val OceanProtocol by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.OceanProtocol }
+    val Okb by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Okb }
+    val Okru by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Okru }
+    val OmegaCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.OmegaCircle }
+    val OmegaSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.OmegaSquare }
+    val Ontology by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Ontology }
+    val Paintbucket by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Paintbucket }
+    val Paperclip by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Paperclip }
+    val PaperclipTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.PaperclipTwo }
+    val PasswordCheck by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.PasswordCheck }
+    val PathTool by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.PathTool }
+    val PathToolSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.PathToolSquare }
+    val PathToolTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.PathToolTwo }
+    val Pause by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Pause }
+    val PauseCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.PauseCircle }
+    val Paypal by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Paypal }
+    val PenAdd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.PenAdd }
+    val PenClose by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.PenClose }
+    val PenRemove by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.PenRemove }
+    val PenTool by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.PenTool }
+    val PenToolTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.PenToolTwo }
+    val People by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.People }
+    val PercentageCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.PercentageCircle }
+    val PercentageSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.PercentageSquare }
+    val Personalcard by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Personalcard }
+    val Pet by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Pet }
+    val Pharagraphspacing by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Pharagraphspacing }
+    val Photoshop by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Photoshop }
+    val PictureFrame by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.PictureFrame }
+    val Play by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Play }
+    val PlayAdd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.PlayAdd }
+    val PlayCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.PlayCircle }
+    val PlayCricle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.PlayCricle }
+    val PlayRemove by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.PlayRemove }
+    val Pointer by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Pointer }
+    val Polkadot by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Polkadot }
+    val Polygon by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Polygon }
+    val Polyswarm by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Polyswarm }
+    val PresentionChart by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.PresentionChart }
+    val Previous by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Previous }
+    val Printer by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Printer }
+    val PrinterSlash by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.PrinterSlash }
+    val Profile by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Profile }
+    val ProfileAdd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ProfileAdd }
+    val ProfileCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ProfileCircle }
+    val ProfileDelete by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ProfileDelete }
+    val ProfileRemove by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ProfileRemove }
+    val ProfileTick by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ProfileTick }
+    val ProfileTwouser by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ProfileTwouser }
+    val ProgrammingArrow by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ProgrammingArrow }
+    val ProgrammingArrows by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ProgrammingArrows }
+    val Python by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Python }
+    val Quant by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Quant }
+    val QuoteDown by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.QuoteDown }
+    val QuoteDownCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.QuoteDownCircle }
+    val QuoteDownSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.QuoteDownSquare }
+    val QuoteUp by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.QuoteUp }
+    val QuoteUpCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.QuoteUpCircle }
+    val QuoteUpSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.QuoteUpSquare }
+    val Radar by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Radar }
+    val RadarTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.RadarTwo }
+    val Radio by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Radio }
+    val Ram by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Ram }
+    val RamTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.RamTwo }
+    val Rank by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Rank }
+    val Ranking by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Ranking }
+    val Receipt by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Receipt }
+    val ReceiptAdd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ReceiptAdd }
+    val ReceiptDiscount by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ReceiptDiscount }
+    val ReceiptDisscount by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ReceiptDisscount }
+    val ReceiptEdit by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ReceiptEdit }
+    val ReceiptItem by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ReceiptItem }
+    val ReceiptMinus by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ReceiptMinus }
+    val ReceiptOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ReceiptOne }
+    val ReceiptSearch by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ReceiptSearch }
+    val ReceiptSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ReceiptSquare }
+    val ReceiptText by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ReceiptText }
+    val ReceiptTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ReceiptTwo }
+    val ReceiptTwoOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ReceiptTwoOne }
+    val Receive by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Receive }
+    val ReceiveSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ReceiveSquare }
+    val ReceiveSquareTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ReceiveSquareTwo }
+    val Record by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Record }
+    val RecordCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.RecordCircle }
+    val RecoveryConvert by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.RecoveryConvert }
+    val Refresh by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Refresh }
+    val RefreshCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.RefreshCircle }
+    val RefreshLeftSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.RefreshLeftSquare }
+    val RefreshRightSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.RefreshRightSquare }
+    val RefreshSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.RefreshSquare }
+    val RefreshTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.RefreshTwo }
+    val Repeat by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Repeat }
+    val RepeatCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.RepeatCircle }
+    val RepeateMusic by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.RepeateMusic }
+    val RepeateOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.RepeateOne }
+    val Reserve by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Reserve }
+    val RotateLeft by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.RotateLeft }
+    val RotateRight by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.RotateRight }
+    val RouteSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.RouteSquare }
+    val Routing by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Routing }
+    val RoutingTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.RoutingTwo }
+    val RowHorizontal by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.RowHorizontal }
+    val RowVertical by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.RowVertical }
+    val Ruler by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Ruler }
+    val RulerPen by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.RulerPen }
+    val SafeHome by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SafeHome }
+    val Sagittarius by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Sagittarius }
+    val SaveAdd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SaveAdd }
+    val SaveMinus by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SaveMinus }
+    val SaveRemove by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SaveRemove }
+    val SaveTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SaveTwo }
+    val Scan by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Scan }
+    val ScanBarcode by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ScanBarcode }
+    val Scanner by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Scanner }
+    val Scanning by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Scanning }
+    val Scissor by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Scissor }
+    val Screenmirroring by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Screenmirroring }
+    val Scroll by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Scroll }
+    val SearchFavorite by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SearchFavorite }
+    val SearchFavoriteOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SearchFavoriteOne }
+    val SearchNormal by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SearchNormal }
+    val SearchNormalOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SearchNormalOne }
+    val SearchStatus by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SearchStatus }
+    val SearchStatusOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SearchStatusOne }
+    val SearchZoomIn by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SearchZoomIn }
+    val SearchZoomInOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SearchZoomInOne }
+    val SearchZoomOut by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SearchZoomOut }
+    val SearchZoomOutOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SearchZoomOutOne }
+    val Security by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Security }
+    val SecurityCard by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SecurityCard }
+    val SecuritySafe by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SecuritySafe }
+    val SecurityTime by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SecurityTime }
+    val SecurityUser by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SecurityUser }
+    val Send by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Send }
+    val SendTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SendTwo }
+    val Setting by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Setting }
+    val SettingFive by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SettingFive }
+    val SettingFour by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SettingFour }
+    val SettingThree by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SettingThree }
+    val SettingTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SettingTwo }
+    val Settings by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Settings }
+    val Shapes by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Shapes }
+    val ShapesOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ShapesOne }
+    val Share by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Share }
+    val Shield by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Shield }
+    val ShieldCross by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ShieldCross }
+    val ShieldSearch by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ShieldSearch }
+    val ShieldSecurity by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ShieldSecurity }
+    val ShieldSlash by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ShieldSlash }
+    val ShieldTick by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ShieldTick }
+    val Ship by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Ship }
+    val Shop by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Shop }
+    val ShopAdd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ShopAdd }
+    val ShopRemove by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ShopRemove }
+    val ShoppingBag by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ShoppingBag }
+    val ShoppingCart by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ShoppingCart }
+    val Shuffle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Shuffle }
+    val Shutterstock by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Shutterstock }
+    val Siacoin by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Siacoin }
+    val SidebarBottom by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SidebarBottom }
+    val SidebarLeft by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SidebarLeft }
+    val SidebarRight by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SidebarRight }
+    val SidebarTop by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SidebarTop }
+    val Signpost by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Signpost }
+    val Simcard by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Simcard }
+    val SimcardOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SimcardOne }
+    val SimcardTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SimcardTwo }
+    val Size by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Size }
+    val Slack by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Slack }
+    val Slash by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Slash }
+    val Slider by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Slider }
+    val SliderHorizontal by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SliderHorizontal }
+    val SliderHorizontalOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SliderHorizontalOne }
+    val SliderVertical by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SliderVertical }
+    val SliderVerticalOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SliderVerticalOne }
+    val Smallcaps by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Smallcaps }
+    val SmartCar by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SmartCar }
+    val SmartHome by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SmartHome }
+    val Smileys by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Smileys }
+    val Sms by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Sms }
+    val SmsEdit by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SmsEdit }
+    val SmsNotification by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SmsNotification }
+    val SmsSearch by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SmsSearch }
+    val SmsStar by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SmsStar }
+    val SmsTracking by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SmsTracking }
+    val Snapchat by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Snapchat }
+    val Solana by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Solana }
+    val Sort by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Sort }
+    val Sound by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Sound }
+    val Speaker by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Speaker }
+    val Speedometer by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Speedometer }
+    val Spotify by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Spotify }
+    val Stacks by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Stacks }
+    val Star by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Star }
+    val StarOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.StarOne }
+    val StarSlash by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.StarSlash }
+    val Status by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Status }
+    val StatusUp by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.StatusUp }
+    val Stellar by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Stellar }
+    val Sticker by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Sticker }
+    val Stickynote by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Stickynote }
+    val Stop by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Stop }
+    val StopCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.StopCircle }
+    val Story by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Story }
+    val Strongbox by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Strongbox }
+    val StrongboxTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.StrongboxTwo }
+    val Subtitle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Subtitle }
+    val Sun by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Sun }
+    val SunFog by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SunFog }
+    val SunOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.SunOne }
+    val TableDocument by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TableDocument }
+    val TableLamp by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TableLamp }
+    val Tag by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Tag }
+    val TagCross by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TagCross }
+    val TagRight by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TagRight }
+    val TagTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TagTwo }
+    val TagUser by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TagUser }
+    val Task by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Task }
+    val TaskSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TaskSquare }
+    val Teacher by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Teacher }
+    val Tenx by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Tenx }
+    val Tether by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Tether }
+    val Text by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Text }
+    val TextBlock by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TextBlock }
+    val TextBold by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TextBold }
+    val TextItalic by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TextItalic }
+    val TextUnderline by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TextUnderline }
+    val TextalignCenter by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TextalignCenter }
+    val TextalignJustifycenter by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TextalignJustifycenter }
+    val TextalignJustifyleft by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TextalignJustifyleft }
+    val TextalignJustifyright by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TextalignJustifyright }
+    val TextalignLeft by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TextalignLeft }
+    val TextalignRight by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TextalignRight }
+    val TheGraph by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TheGraph }
+    val Theta by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Theta }
+    val Thorchain by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Thorchain }
+    val ThreeDCubeScan by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ThreeDCubeScan }
+    val ThreeDRotate by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ThreeDRotate }
+    val ThreeDSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ThreeDSquare }
+    val Threedcube by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Threedcube }
+    val Threesquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Threesquare }
+    val TickCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TickCircle }
+    val TickSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TickSquare }
+    val Ticket by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Ticket }
+    val TicketDiscount by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TicketDiscount }
+    val TicketExpired by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TicketExpired }
+    val TicketStar by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TicketStar }
+    val TicketTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TicketTwo }
+    val Timer by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Timer }
+    val TimerOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TimerOne }
+    val TimerPause by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TimerPause }
+    val TimerStart by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TimerStart }
+    val ToggleOff by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ToggleOff }
+    val ToggleOffCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ToggleOffCircle }
+    val ToggleOn by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ToggleOn }
+    val ToggleOnCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.ToggleOnCircle }
+    val Trade by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Trade }
+    val TransactionMinus by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TransactionMinus }
+    val Translate by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Translate }
+    val Transmit by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Transmit }
+    val TransmitSqaureTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TransmitSqaureTwo }
+    val TransmitSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TransmitSquare }
+    val Trash by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Trash }
+    val Tree by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Tree }
+    val Trello by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Trello }
+    val TrendDown by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TrendDown }
+    val TrendUp by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TrendUp }
+    val Triangle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Triangle }
+    val TriangleLogo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TriangleLogo }
+    val Trontron by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Trontron }
+    val Truck by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Truck }
+    val TruckFast by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TruckFast }
+    val TruckRemove by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TruckRemove }
+    val TruckTick by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TruckTick }
+    val TruckTime by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TruckTime }
+    val TrushSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TrushSquare }
+    val TwentyFourSupport by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.TwentyFourSupport }
+    val Twitch by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Twitch }
+    val Uieight by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Uieight }
+    val Unlimited by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Unlimited }
+    val Unlock by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Unlock }
+    val UsdCoin by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.UsdCoin }
+    val User by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.User }
+    val UserAdd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.UserAdd }
+    val UserCirlceAdd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.UserCirlceAdd }
+    val UserEdit by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.UserEdit }
+    val UserMinus by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.UserMinus }
+    val UserOctagon by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.UserOctagon }
+    val UserRemove by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.UserRemove }
+    val UserSearch by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.UserSearch }
+    val UserSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.UserSquare }
+    val UserTag by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.UserTag }
+    val UserTick by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.UserTick }
+    val Velas by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Velas }
+    val Verify by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Verify }
+    val Vibe by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Vibe }
+    val Video by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Video }
+    val VideoAdd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.VideoAdd }
+    val VideoCircle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.VideoCircle }
+    val VideoHorizontal by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.VideoHorizontal }
+    val VideoOctagon by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.VideoOctagon }
+    val VideoPlay by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.VideoPlay }
+    val VideoRemove by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.VideoRemove }
+    val VideoSlash by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.VideoSlash }
+    val VideoSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.VideoSquare }
+    val VideoTick by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.VideoTick }
+    val VideoTime by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.VideoTime }
+    val VideoVertical by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.VideoVertical }
+    val VoiceCricle by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.VoiceCricle }
+    val VoiceSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.VoiceSquare }
+    val Volume by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Volume }
+    val VolumeCross by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.VolumeCross }
+    val VolumeHigh by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.VolumeHigh }
+    val VolumeLow by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.VolumeLow }
+    val VolumeLowOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.VolumeLowOne }
+    val VolumeMute by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.VolumeMute }
+    val VolumeSlash by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.VolumeSlash }
+    val VolumeUp by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.VolumeUp }
+    val Wallet by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Wallet }
+    val WalletAdd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.WalletAdd }
+    val WalletAddOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.WalletAddOne }
+    val WalletCheck by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.WalletCheck }
+    val WalletMinus by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.WalletMinus }
+    val WalletMoney by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.WalletMoney }
+    val WalletOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.WalletOne }
+    val WalletRemove by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.WalletRemove }
+    val WalletSearch by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.WalletSearch }
+    val WalletThree by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.WalletThree }
+    val WalletTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.WalletTwo }
+    val Wanchain by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Wanchain }
+    val WanchainOne by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.WanchainOne }
+    val WarningTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.WarningTwo }
+    val Watch by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Watch }
+    val WatchStatus by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.WatchStatus }
+    val Weight by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Weight }
+    val WeightMeter by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.WeightMeter }
+    val Whatsapp by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Whatsapp }
+    val Wifi by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Wifi }
+    val WifiSquare by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.WifiSquare }
+    val Wind by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Wind }
+    val WindTwo by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.WindTwo }
+    val Windows by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Windows }
+    val Wing by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Wing }
+    val Woman by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Woman }
+    val WristClock by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.WristClock }
+    val Xd by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Xd }
+    val Xiaomi by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Xiaomi }
+    val Xrp by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Xrp }
+    val Youtube by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Youtube }
+    val Zel by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Zel }
+    val Zoom by lazy { com.github.yohannestz.iconsax_compose.iconsax.bold.Zoom }
 }
