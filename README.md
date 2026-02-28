@@ -57,7 +57,7 @@ For **Compose Multiplatform**, add it to the `commonMain` dependencies block (or
 kotlin {
     sourceSets {
         commonMain.dependencies {
-            implementation("com.github.YohannesTz:IconsaxCompose:1.0")
+            implementation("com.github.YohannesTz:IconsaxCompose:1.0.1")
         }
     }
 }
@@ -67,11 +67,11 @@ For Android-only projects:
 
 ```gradle
 dependencies {
-    implementation 'com.github.YohannesTz:IconsaxCompose:1.0'
+    implementation 'com.github.YohannesTz:IconsaxCompose:1.0.1'
 }
 ```
 
-Replace `1.0` with:
+Replace `1.0.1` with:
 
 * A **tag** (recommended), or
 * A **commit hash**, or
