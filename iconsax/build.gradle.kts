@@ -2,9 +2,27 @@ import javax.inject.Inject
 import org.gradle.process.ExecOperations
 
 plugins {
+    alias(libs.plugins.kotlin.multiplatform)
     alias(libs.plugins.android.library)
-    alias(libs.plugins.kotlin.android)
+    alias(libs.plugins.jetbrains.compose)
+    alias(libs.plugins.kotlin.compose)
     id("maven-publish")
+}
+
+group = "com.github.YohannesTz"
+version = "1.0.0"
+
+publishing {
+    repositories {
+        maven {
+            name = "GitHubPackages"
+            url = uri("https://maven.pkg.github.com/YohannesTz/IconsaxCompose")
+            credentials {
+                username = project.findProperty("gpr.user") as String? ?: "YohannesTz"
+                password = project.findProperty("gpr.key") as String? ?: System.getenv("GITHUB_TOKEN")
+            }
+        }
+    }
 }
 
 abstract class IconsaxExec @Inject constructor(
@@ -13,6 +31,30 @@ abstract class IconsaxExec @Inject constructor(
     fun run(vararg args: String) {
         execOps.exec {
             commandLine(*args)
+        }
+    }
+}
+
+kotlin {
+    androidTarget {
+        publishLibraryVariants("release")
+        compilerOptions {
+            jvmTarget.set(org.jetbrains.kotlin.gradle.dsl.JvmTarget.JVM_11)
+        }
+    }
+    jvm()
+    iosX64()
+    iosArm64()
+    iosSimulatorArm64()
+
+    sourceSets {
+        commonMain.dependencies {
+            implementation(compose.runtime)
+            implementation(compose.foundation)
+            implementation(compose.ui)
+        }
+        androidMain.dependencies {
+            implementation(libs.androidx.core.ktx)
         }
     }
 }
@@ -27,14 +69,6 @@ android {
         sourceCompatibility = JavaVersion.VERSION_11
         targetCompatibility = JavaVersion.VERSION_11
     }
-
-    kotlinOptions { jvmTarget = "11" }
-
-    publishing {
-        singleVariant("release") {
-            withSourcesJar()
-        }
-    }
 }
 
 val modes = listOf(
@@ -47,7 +81,7 @@ val modes = listOf(
 )
 
 val modulePackage = "com.github.yohannestz.iconsax_compose.iconsax"
-val outputRoot = file("src/main/java/${modulePackage.replace(".", "/")}")
+val outputRoot = file("src/commonMain/kotlin/${modulePackage.replace(".", "/")}")
 
 fun sanitizeIconName(name: String): String {
     val safe = name.replace(Regex("[^A-Za-z0-9_]"), "_")
@@ -107,9 +141,6 @@ tasks.register("generateIconsax") {
         generateApi(outputRoot, modulePackage)
         println("✓ Iconsax API classes generated")
     }
-}
-dependencies {
-    implementation(libs.ui)
 }
 
 fun generateApi(root: File, pkg: String) {

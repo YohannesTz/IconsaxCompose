@@ -1,0 +1,551 @@
+
+> Configure project :app
+w: Kotlin Multiplatform <-> Android Gradle Plugin compatibility issue:
+The applied Android Gradle Plugin version (8.13.2) is higher 
+than the maximum known to the Kotlin Gradle Plugin.
+Tooling stability in such configuration isn't tested, please report encountered issues to https://kotl.in/issue
+
+Minimum supported Android Gradle Plugin version: 7.1
+Maximum tested Android Gradle Plugin version: 8.5
+
+To suppress this message add 'kotlin.mpp.androidGradlePluginCompatibility.nowarn=true' to your gradle.properties
+
+
+> Task :app:tasks
+
+------------------------------------------------------------
+Tasks runnable from project ':app'
+------------------------------------------------------------
+
+Android tasks
+-------------
+androidDependencies - Displays the Android dependencies of the project.
+signingReport - Displays the signing info for the base and test modules
+sourceSets - Prints out all the source sets defined in this project.
+
+Build tasks
+-----------
+allMetadataJar - Assembles a jar archive containing the metadata for all Kotlin source sets.
+assemble - Assemble main outputs for all the variants.
+assembleAndroidTest - Assembles all the Test applications.
+assembleUnitTest - Assembles all the unit test applications.
+build - Assembles and tests this project.
+buildDependents - Assembles and tests this project and all projects that depend on it.
+buildKotlinToolingMetadata - Build metadata json file containing information about the used Kotlin tooling
+buildNeeded - Assembles and tests this project and all projects it depends on.
+bundle - Assemble bundles for all the variants.
+clean - Deletes the build directory.
+cleanAllTests - Deletes all the test results.
+compileAppleMainKotlinMetadata - Compiles a klibrary from the 'appleMain' compilation in target 'metadata'.
+compileDebugAndroidTestSources
+compileDebugSources
+compileDebugUnitTestSources
+compileIosMainKotlinMetadata - Compiles a klibrary from the 'iosMain' compilation in target 'metadata'.
+compileKotlinIosArm64 - Compiles a klibrary from the 'main' compilation in target 'iosArm64'.
+compileKotlinIosSimulatorArm64 - Compiles a klibrary from the 'main' compilation in target 'iosSimulatorArm64'.
+compileKotlinIosX64 - Compiles a klibrary from the 'main' compilation in target 'iosX64'.
+compileNativeMainKotlinMetadata - Compiles a klibrary from the 'nativeMain' compilation in target 'metadata'.
+compileReleaseSources
+compileReleaseUnitTestSources
+compileTestKotlinIosArm64 - Compiles a klibrary from the 'test' compilation in target 'iosArm64'.
+compileTestKotlinIosSimulatorArm64 - Compiles a klibrary from the 'test' compilation in target 'iosSimulatorArm64'.
+compileTestKotlinIosX64 - Compiles a klibrary from the 'test' compilation in target 'iosX64'.
+iosArm64Binaries - Assembles outputs for target 'iosArm64'.
+iosArm64MainBinaries - Links all binaries for compilation 'main' of target 'iosArm64'.
+iosArm64MainKlibrary - Assembles outputs for compilation 'main' of target 'iosArm64'
+iosArm64MetadataElements - Assembles Kotlin metadata of target 'iosArm64'.
+iosArm64SourcesJar - Assembles a jar archive containing the sources of target 'iosArm64'.
+iosArm64TestBinaries - Links all binaries for compilation 'test' of target 'iosArm64'.
+iosArm64TestKlibrary - Assembles outputs for compilation 'test' of target 'iosArm64'
+iosSimulatorArm64Binaries - Assembles outputs for target 'iosSimulatorArm64'.
+iosSimulatorArm64MainBinaries - Links all binaries for compilation 'main' of target 'iosSimulatorArm64'.
+iosSimulatorArm64MainKlibrary - Assembles outputs for compilation 'main' of target 'iosSimulatorArm64'
+iosSimulatorArm64MetadataElements - Assembles Kotlin metadata of target 'iosSimulatorArm64'.
+iosSimulatorArm64SourcesJar - Assembles a jar archive containing the sources of target 'iosSimulatorArm64'.
+iosSimulatorArm64TestBinaries - Links all binaries for compilation 'test' of target 'iosSimulatorArm64'.
+iosSimulatorArm64TestKlibrary - Assembles outputs for compilation 'test' of target 'iosSimulatorArm64'
+iosX64Binaries - Assembles outputs for target 'iosX64'.
+iosX64MainBinaries - Links all binaries for compilation 'main' of target 'iosX64'.
+iosX64MainKlibrary - Assembles outputs for compilation 'main' of target 'iosX64'
+iosX64MetadataElements - Assembles Kotlin metadata of target 'iosX64'.
+iosX64SourcesJar - Assembles a jar archive containing the sources of target 'iosX64'.
+iosX64TestBinaries - Links all binaries for compilation 'test' of target 'iosX64'.
+iosX64TestKlibrary - Assembles outputs for compilation 'test' of target 'iosX64'
+linkDebugTestIosArm64 - Links a test executable 'debugTest' for a target 'iosArm64'.
+linkDebugTestIosSimulatorArm64 - Links a test executable 'debugTest' for a target 'iosSimulatorArm64'.
+linkDebugTestIosX64 - Links a test executable 'debugTest' for a target 'iosX64'.
+linkIosArm64 - Links all binaries for target 'iosArm64'.
+linkIosSimulatorArm64 - Links all binaries for target 'iosSimulatorArm64'.
+linkIosX64 - Links all binaries for target 'iosX64'.
+metadataAppleMainClasses - Assembles outputs for compilation 'appleMain' of target 'metadata'
+metadataCommonMainClasses - Assembles outputs for compilation 'commonMain' of target 'metadata'
+metadataIosMainClasses - Assembles outputs for compilation 'iosMain' of target 'metadata'
+metadataMainClasses - Assembles outputs for compilation 'main' of target 'metadata'
+metadataNativeMainClasses - Assembles outputs for compilation 'nativeMain' of target 'metadata'
+metadataSourcesJar - Assembles a jar archive containing the sources of target 'metadata'.
+
+Help tasks
+----------
+artifactTransforms - Displays the Artifact Transforms that can be executed in project ':app'.
+buildEnvironment - Displays all buildscript dependencies declared in project ':app'.
+dependencies - Displays all dependencies declared in project ':app'.
+dependencyInsight - Displays the insight into a specific dependency in project ':app'.
+help - Displays a help message.
+javaToolchains - Displays the detected java toolchains.
+kotlinDslAccessorsReport - Prints the Kotlin code for accessing the currently available project extensions and conventions.
+outgoingVariants - Displays the outgoing variants of project ':app'.
+projects - Displays the sub-projects of project ':app'.
+properties - Displays the properties of project ':app'.
+resolvableConfigurations - Displays the configurations that can be resolved in project ':app'.
+tasks - Displays the tasks runnable from project ':app'.
+
+Ide tasks
+---------
+resolveIdeDependencies - Debugging/Diagnosing task that will resolve dependencies for the IDE
+
+Install tasks
+-------------
+installDebug - Installs the Debug build.
+installDebugAndroidTest - Installs the android (on device) tests for the Debug build.
+uninstallAll - Uninstall all applications.
+uninstallDebug - Uninstalls the Debug build.
+uninstallDebugAndroidTest - Uninstalls the android (on device) tests for the Debug build.
+uninstallRelease - Uninstalls the Release build.
+
+Interop tasks
+-------------
+commonize - Aggregator task for all c-interop & Native distribution commonizer tasks
+runCommonizer - [Deprecated: Use 'commonize' instead]
+
+Verification tasks
+------------------
+allTests - Runs the tests for all targets and create aggregated report
+check - Runs all checks.
+checkJetifier - Checks whether Jetifier is needed for the current project
+checkKotlinGradlePluginConfigurationErrors - Checks that Kotlin Gradle Plugin hasn't reported project configuration errors, failing otherwise. This task always runs before compileKotlin* or similar tasks.
+connectedAndroidTest - Installs and runs instrumentation tests for all flavors on connected devices.
+connectedCheck - Runs all device checks on currently connected devices.
+connectedDebugAndroidTest - Installs and runs the tests for debug on connected devices.
+deviceAndroidTest - Installs and runs instrumentation tests using all Device Providers.
+deviceCheck - Runs all device checks using Device Providers and Test Servers.
+iosSimulatorArm64Test - Executes Kotlin/Native unit tests for target iosSimulatorArm64.
+iosX64Test - Executes Kotlin/Native unit tests for target iosX64.
+lint - Runs lint on the default variant.
+lintDebug - Print text output from the corresponding lint report task
+lintFix - Runs lint on the default variant and applies any safe suggestions to the source code.
+lintRelease - Print text output from the corresponding lint report task
+lintVitalRelease - Print text output from the corresponding lint report task
+test - Run unit tests for all variants.
+testDebugUnitTest - Run unit tests for the debug build.
+testReleaseUnitTest - Run unit tests for the release build.
+updateLintBaseline - Updates the lint baseline using the default variant.
+
+Other tasks
+-----------
+analyzeDebugAndroidTestDependencies
+analyzeDebugDependencies
+analyzeDebugUnitTestDependencies
+analyzeReleaseDependencies
+analyzeReleaseUnitTestDependencies
+asarToCompatSplitsForDebug
+asarToCompatSplitsForRelease
+assembleDebug - Assembles main output for variant debug
+assembleDebugAndroidTest - Assembles main output for variant debugAndroidTest
+assembleDebugUnitTest - Assembles main output for variant debugUnitTest
+assembleIosArm64MainResources
+assembleIosArm64TestResources
+assembleIosSimulatorArm64MainResources
+assembleIosSimulatorArm64TestResources
+assembleIosX64MainResources
+assembleIosX64TestResources
+assembleRelease - Assembles main output for variant release
+assembleReleaseUnitTest - Assembles main output for variant releaseUnitTest
+buildDebugPreBundle
+buildReleasePreBundle
+bundleDebug - Assembles bundle for variant debug
+bundleDebugClassesToCompileJar
+bundleDebugClassesToRuntimeJar
+bundleDebugResources
+bundleRelease - Assembles bundle for variant release
+bundleReleaseClassesToCompileJar
+bundleReleaseClassesToRuntimeJar
+bundleReleaseResources
+checkDebugAarMetadata
+checkDebugAndroidTestAarMetadata
+checkDebugAndroidTestDuplicateClasses
+checkDebugDuplicateClasses
+checkDebugManifest
+checkReleaseAarMetadata
+checkReleaseDuplicateClasses
+checkReleaseManifest
+collectReleaseDependencies
+compileCommonMainKotlinMetadata - Compiles the kotlin sources in compilation 'commonMain' in target 'metadata' to Metadata.
+compileDebugAndroidTestJavaWithJavac
+compileDebugAndroidTestKotlinAndroid - Compiles the debugAndroidTest kotlin.
+compileDebugAndroidTestNavigationResources
+compileDebugAndroidTestShaders
+compileDebugArtProfile
+compileDebugJavaWithJavac
+compileDebugKotlinAndroid - Compiles the debug kotlin.
+compileDebugNavigationResources
+compileDebugShaders
+compileDebugUnitTestJavaWithJavac
+compileDebugUnitTestKotlinAndroid - Compiles the debugUnitTest kotlin.
+compileKotlinMetadata - Compiles the kotlin sources in compilation 'main' in target 'metadata' to Metadata.
+compileLint
+compileLintChecks
+compileReleaseArtProfile
+compileReleaseJavaWithJavac
+compileReleaseKotlinAndroid - Compiles the release kotlin.
+compileReleaseNavigationResources
+compileReleaseShaders
+compileReleaseUnitTestJavaWithJavac
+compileReleaseUnitTestKotlinAndroid - Compiles the releaseUnitTest kotlin.
+components - Displays the components produced by project ':app'. [deprecated]
+compressDebugAndroidTestAssets
+compressDebugAssets
+compressReleaseAssets
+configureReleaseDependencies
+consumeConfigAttr
+convertXmlValueResourcesForAndroidDebug
+convertXmlValueResourcesForAndroidInstrumentedTest
+convertXmlValueResourcesForAndroidInstrumentedTestDebug
+convertXmlValueResourcesForAndroidMain
+convertXmlValueResourcesForAndroidRelease
+convertXmlValueResourcesForAndroidUnitTest
+convertXmlValueResourcesForAndroidUnitTestDebug
+convertXmlValueResourcesForAndroidUnitTestRelease
+convertXmlValueResourcesForAppleMain
+convertXmlValueResourcesForAppleTest
+convertXmlValueResourcesForCommonMain
+convertXmlValueResourcesForCommonTest
+convertXmlValueResourcesForIosArm64Main
+convertXmlValueResourcesForIosArm64Test
+convertXmlValueResourcesForIosMain
+convertXmlValueResourcesForIosSimulatorArm64Main
+convertXmlValueResourcesForIosSimulatorArm64Test
+convertXmlValueResourcesForIosTest
+convertXmlValueResourcesForIosX64Main
+convertXmlValueResourcesForIosX64Test
+convertXmlValueResourcesForNativeMain
+convertXmlValueResourcesForNativeTest
+copyDebugAndroidTestComposeResourcesToAndroidAssets
+copyDebugComposeResourcesToAndroidAssets
+copyNonXmlValueResourcesForAndroidDebug
+copyNonXmlValueResourcesForAndroidInstrumentedTest
+copyNonXmlValueResourcesForAndroidInstrumentedTestDebug
+copyNonXmlValueResourcesForAndroidMain
+copyNonXmlValueResourcesForAndroidRelease
+copyNonXmlValueResourcesForAndroidUnitTest
+copyNonXmlValueResourcesForAndroidUnitTestDebug
+copyNonXmlValueResourcesForAndroidUnitTestRelease
+copyNonXmlValueResourcesForAppleMain
+copyNonXmlValueResourcesForAppleTest
+copyNonXmlValueResourcesForCommonMain
+copyNonXmlValueResourcesForCommonTest
+copyNonXmlValueResourcesForIosArm64Main
+copyNonXmlValueResourcesForIosArm64Test
+copyNonXmlValueResourcesForIosMain
+copyNonXmlValueResourcesForIosSimulatorArm64Main
+copyNonXmlValueResourcesForIosSimulatorArm64Test
+copyNonXmlValueResourcesForIosTest
+copyNonXmlValueResourcesForIosX64Main
+copyNonXmlValueResourcesForIosX64Test
+copyNonXmlValueResourcesForNativeMain
+copyNonXmlValueResourcesForNativeTest
+copyReleaseComposeResourcesToAndroidAssets
+copyTestComposeResourcesForIosArm64
+copyTestComposeResourcesForIosSimulatorArm64
+copyTestComposeResourcesForIosX64
+createDebugAndroidTestApkListingFileRedirect
+createDebugApkListingFileRedirect
+createDebugApksFromBundleListingFileRedirect
+createDebugBundleListingFileRedirect
+createDebugCompatibleScreenManifests
+createMockableJar
+createReleaseApkListingFileRedirect
+createReleaseApksFromBundleListingFileRedirect
+createReleaseBundleListingFileRedirect
+createReleaseCompatibleScreenManifests
+debugAssetsCopyForAGP
+dependentComponents - Displays the dependent components of components in project ':app'. [deprecated]
+desugarDebugAndroidTestFileDependencies
+desugarDebugFileDependencies
+desugarReleaseFileDependencies
+dexBuilderDebug
+dexBuilderDebugAndroidTest
+dexBuilderRelease
+extractApksForDebug
+extractApksForRelease
+extractApksFromBundleForDebug
+extractApksFromBundleForRelease
+extractDebugNativeDebugMetadata
+extractDebugNativeSymbolTables
+extractDeepLinksDebug
+extractDeepLinksRelease
+extractProguardFiles
+extractReleaseNativeDebugMetadata
+extractReleaseNativeSymbolTables
+extractReleaseVersionControlInfo
+generateActualResourceCollectorsForAndroidMain
+generateActualResourceCollectorsForIosArm64Main
+generateActualResourceCollectorsForIosSimulatorArm64Main
+generateActualResourceCollectorsForIosX64Main
+generateComposeResClass
+generateDebugAndroidTestAssets
+generateDebugAndroidTestLintModel
+generateDebugAndroidTestResources
+generateDebugAndroidTestResValues
+generateDebugAndroidTestSources
+generateDebugAssets
+generateDebugFeatureMetadata
+generateDebugFeatureTransitiveDeps
+generateDebugLintModel
+generateDebugLintReportModel
+generateDebugManifestClass
+generateDebugResources
+generateDebugResValues
+generateDebugSources
+generateDebugUnitTestAssets
+generateDebugUnitTestLintModel
+generateDebugUnitTestResources
+generateDebugUnitTestSources
+generateExpectResourceCollectorsForCommonMain
+generateProjectStructureMetadata - Generates serialized project structure metadata of the current project (for tooling)
+generateReleaseAssets
+generateReleaseFeatureMetadata
+generateReleaseFeatureTransitiveDeps
+generateReleaseLintModel
+generateReleaseLintReportModel
+generateReleaseLintVitalReportModel
+generateReleaseManifestClass
+generateReleaseResources
+generateReleaseResValues
+generateReleaseSources
+generateReleaseUnitTestAssets
+generateReleaseUnitTestLintModel
+generateReleaseUnitTestResources
+generateReleaseUnitTestSources
+generateResourceAccessorsForAndroidDebug
+generateResourceAccessorsForAndroidInstrumentedTest
+generateResourceAccessorsForAndroidInstrumentedTestDebug
+generateResourceAccessorsForAndroidMain
+generateResourceAccessorsForAndroidRelease
+generateResourceAccessorsForAndroidUnitTest
+generateResourceAccessorsForAndroidUnitTestDebug
+generateResourceAccessorsForAndroidUnitTestRelease
+generateResourceAccessorsForAppleMain
+generateResourceAccessorsForAppleTest
+generateResourceAccessorsForCommonMain
+generateResourceAccessorsForCommonTest
+generateResourceAccessorsForIosArm64Main
+generateResourceAccessorsForIosArm64Test
+generateResourceAccessorsForIosMain
+generateResourceAccessorsForIosSimulatorArm64Main
+generateResourceAccessorsForIosSimulatorArm64Test
+generateResourceAccessorsForIosTest
+generateResourceAccessorsForIosX64Main
+generateResourceAccessorsForIosX64Test
+generateResourceAccessorsForNativeMain
+generateResourceAccessorsForNativeTest
+iosArm64AggregateResources
+iosArm64CopyHierarchicalMultiplatformResources
+iosArm64ProcessResources - Processes file collection.
+iosArm64ResolveResourcesFromDependencies
+iosArm64ResolveSelfResourcesCopyHierarchicalMultiplatformResources
+iosArm64TestProcessResources - Processes file collection.
+iosArm64ZipMultiplatformResourcesForPublication
+iosSimulatorArm64AggregateResources
+iosSimulatorArm64CopyHierarchicalMultiplatformResources
+iosSimulatorArm64ProcessResources - Processes file collection.
+iosSimulatorArm64ResolveResourcesFromDependencies
+iosSimulatorArm64ResolveSelfResourcesCopyHierarchicalMultiplatformResources
+iosSimulatorArm64TestProcessResources - Processes file collection.
+iosSimulatorArm64ZipMultiplatformResourcesForPublication
+iosX64AggregateResources
+iosX64CopyHierarchicalMultiplatformResources
+iosX64ProcessResources - Processes file collection.
+iosX64ResolveResourcesFromDependencies
+iosX64ResolveSelfResourcesCopyHierarchicalMultiplatformResources
+iosX64TestProcessResources - Processes file collection.
+iosX64ZipMultiplatformResourcesForPublication
+javaPreCompileDebug
+javaPreCompileDebugAndroidTest
+javaPreCompileDebugUnitTest
+javaPreCompileRelease
+javaPreCompileReleaseUnitTest
+lintAnalyzeDebug - Run lint analysis on the debug component
+lintAnalyzeDebugAndroidTest - Run lint analysis on the debugAndroidTest component
+lintAnalyzeDebugUnitTest - Run lint analysis on the debugUnitTest component
+lintAnalyzeRelease - Run lint analysis on the release component
+lintAnalyzeReleaseUnitTest - Run lint analysis on the releaseUnitTest component
+lintFixDebug - Fix lint on the debug variant
+lintFixRelease - Fix lint on the release variant
+lintReportDebug - Run lint on the debug variant
+lintReportRelease - Run lint on the release variant
+lintVitalAnalyzeRelease - Run lint analysis with only the fatal issues enabled 
+lintVitalReportRelease - Run lint with only the fatal issues enabled on the release variant
+makeApkFromBundleForDebug
+makeApkFromBundleForRelease
+mapDebugAndroidTestSourceSetPaths
+mapDebugSourceSetPaths
+mapReleaseSourceSetPaths
+mergeDebugAndroidTestAssets
+mergeDebugAndroidTestGeneratedProguardFiles
+mergeDebugAndroidTestJavaResource
+mergeDebugAndroidTestJniLibFolders
+mergeDebugAndroidTestNativeLibs
+mergeDebugAndroidTestResources
+mergeDebugAndroidTestShaders
+mergeDebugArtProfile
+mergeDebugAssets
+mergeDebugGeneratedProguardFiles
+mergeDebugJavaResource
+mergeDebugJniLibFolders
+mergeDebugNativeDebugMetadata
+mergeDebugNativeLibs
+mergeDebugResources
+mergeDebugShaders
+mergeDebugStartupProfile
+mergeDexRelease
+mergeExtDexDebug
+mergeExtDexDebugAndroidTest
+mergeExtDexRelease
+mergeLibDexDebug
+mergeLibDexDebugAndroidTest
+mergeProjectDexDebug
+mergeProjectDexDebugAndroidTest
+mergeReleaseArtProfile
+mergeReleaseAssets
+mergeReleaseGeneratedProguardFiles
+mergeReleaseGlobalSynthetics
+mergeReleaseJavaResource
+mergeReleaseJniLibFolders
+mergeReleaseNativeDebugMetadata
+mergeReleaseNativeLibs
+mergeReleaseResources
+mergeReleaseShaders
+mergeReleaseStartupProfile
+metadataAppleMainProcessResources - Processes file collection.
+metadataCommonMainProcessResources - Processes file collection.
+metadataIosMainProcessResources - Processes file collection.
+metadataNativeMainProcessResources - Processes file collection.
+metadataProcessResources - Processes file collection.
+model - Displays the configuration model of project ':app'. [deprecated]
+optimizeReleaseResources
+packageDebug
+packageDebugAndroidTest
+packageDebugBundle
+packageDebugResources
+packageDebugUniversalApk
+packageRelease
+packageReleaseBundle
+packageReleaseResources
+packageReleaseUniversalApk
+parseDebugIntegrityConfig
+parseDebugLocalResources
+parseReleaseIntegrityConfig
+parseReleaseLocalResources
+preBuild
+preDebugAndroidTestBuild
+preDebugBuild
+preDebugUnitTestBuild
+prepareComposeResourcesTaskForAndroidDebug
+prepareComposeResourcesTaskForAndroidInstrumentedTest
+prepareComposeResourcesTaskForAndroidInstrumentedTestDebug
+prepareComposeResourcesTaskForAndroidMain
+prepareComposeResourcesTaskForAndroidRelease
+prepareComposeResourcesTaskForAndroidUnitTest
+prepareComposeResourcesTaskForAndroidUnitTestDebug
+prepareComposeResourcesTaskForAndroidUnitTestRelease
+prepareComposeResourcesTaskForAppleMain
+prepareComposeResourcesTaskForAppleTest
+prepareComposeResourcesTaskForCommonMain
+prepareComposeResourcesTaskForCommonTest
+prepareComposeResourcesTaskForIosArm64Main
+prepareComposeResourcesTaskForIosArm64Test
+prepareComposeResourcesTaskForIosMain
+prepareComposeResourcesTaskForIosSimulatorArm64Main
+prepareComposeResourcesTaskForIosSimulatorArm64Test
+prepareComposeResourcesTaskForIosTest
+prepareComposeResourcesTaskForIosX64Main
+prepareComposeResourcesTaskForIosX64Test
+prepareComposeResourcesTaskForNativeMain
+prepareComposeResourcesTaskForNativeTest
+prepareKotlinIdeaImport - Umbrella for all tasks required to run before IDEA/Gradle import
+prepareLintJarForPublish
+preReleaseBuild
+preReleaseUnitTestBuild
+processApplicationManifestDebugForBundle
+processApplicationManifestReleaseForBundle
+processDebugAndroidTestJavaRes
+processDebugAndroidTestManifest
+processDebugAndroidTestNavigationResources
+processDebugAndroidTestResources
+processDebugJavaRes
+processDebugMainManifest
+processDebugManifest
+processDebugManifestForPackage
+processDebugNavigationResources
+processDebugResources
+processDebugUnitTestJavaRes
+processManifestDebugForFeature
+processManifestReleaseForFeature
+processReleaseJavaRes
+processReleaseMainManifest
+processReleaseManifest
+processReleaseManifestForPackage
+processReleaseNavigationResources
+processReleaseResources
+processReleaseUnitTestJavaRes
+produceDebugBundleIdeListingFile
+produceReleaseBundleIdeListingFile
+releaseAssetsCopyForAGP
+resolveConfigAttr
+sdkReleaseDependencyData
+setupLldbScript - Generate lldbinit file with imported konan_lldb.py script
+signDebugBundle
+signingConfigWriterDebug
+signingConfigWriterDebugAndroidTest
+signingConfigWriterRelease
+signReleaseBundle
+stripDebugAndroidTestDebugSymbols
+stripDebugDebugSymbols
+stripReleaseDebugSymbols
+transformAppleMainDependenciesMetadata - Generates serialized dependencies metadata for compilation 'appleMain' (for tooling)
+transformCommonMainDependenciesMetadata - Generates serialized dependencies metadata for compilation 'commonMain' (for tooling)
+transformDependenciesMetadata
+transformIosMainDependenciesMetadata - Generates serialized dependencies metadata for compilation 'iosMain' (for tooling)
+transformNativeMainDependenciesMetadata - Generates serialized dependencies metadata for compilation 'nativeMain' (for tooling)
+updateLintBaselineDebug - Update the lint baseline using the debug variant
+updateLintBaselineRelease - Update the lint baseline using the release variant
+validateSigningDebug
+validateSigningDebugAndroidTest
+writeDebugAndroidTestSigningConfigVersions
+writeDebugApplicationId
+writeDebugAppMetadata
+writeDebugModuleMetadata
+writeDebugSigningConfigVersions
+writeReleaseApplicationId
+writeReleaseAppMetadata
+writeReleaseModuleMetadata
+writeReleaseSigningConfigVersions
+xcodeVersion
+zipApksForDebug
+zipApksForRelease
+
+Rules
+-----
+Pattern: clean<TaskName>: Cleans the output files of a task.
+Pattern: build<ConfigurationName>: Assembles the artifacts of a configuration.
+
+[Incubating] Problems report is available at: file:///Users/yohannestezera/AndroidStudioProjects/iconsaxcompose/build/reports/problems/problems-report.html
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/8.13/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD SUCCESSFUL in 796ms
+1 actionable task: 1 executed
