@@ -7,20 +7,40 @@ plugins {
     alias(libs.plugins.jetbrains.compose)
     alias(libs.plugins.kotlin.compose)
     id("maven-publish")
+    id("com.vanniktech.maven.publish") version "0.28.0"
 }
 
 group = "com.github.YohannesTz"
 version = "1.0.1"
 
-publishing {
-    repositories {
-        maven {
-            name = "GitHubPackages"
-            url = uri("https://maven.pkg.github.com/YohannesTz/IconsaxCompose")
-            credentials {
-                username = project.findProperty("gpr.user") as String? ?: "YohannesTz"
-                password = project.findProperty("gpr.key") as String? ?: System.getenv("GITHUB_TOKEN")
+mavenPublishing {
+    publishToMavenCentral(com.vanniktech.maven.publish.SonatypeHost.CENTRAL_PORTAL)
+    signAllPublications()
+
+    coordinates("io.github.yohannestz", "iconsax-compose", "1.0.1")
+
+    pom {
+        name.set("Iconsax Compose Multiplatform")
+        description.set("A lightweight Compose Multiplatform icon library providing the complete Iconsax icon set.")
+        inceptionYear.set("2024")
+        url.set("https://github.com/YohannesTz/IconsaxCompose")
+        licenses {
+            license {
+                name.set("The MIT License")
+                url.set("https://opensource.org/licenses/MIT")
             }
+        }
+        developers {
+            developer {
+                id.set("YohannesTz")
+                name.set("Yohannes Tezera")
+                url.set("https://github.com/YohannesTz")
+            }
+        }
+        scm {
+            url.set("https://github.com/YohannesTz/IconsaxCompose")
+            connection.set("scm:git:git://github.com/YohannesTz/IconsaxCompose.git")
+            developerConnection.set("scm:git:ssh://git@github.com/YohannesTz/IconsaxCompose.git")
         }
     }
 }
