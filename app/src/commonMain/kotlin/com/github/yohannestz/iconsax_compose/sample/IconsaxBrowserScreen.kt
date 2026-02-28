@@ -31,9 +31,9 @@ import androidx.compose.material3.TabRowDefaults
 import androidx.compose.material3.TabRowDefaults.tabIndicatorOffset
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
-import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.produceState
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.setValue
@@ -43,15 +43,18 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.RectangleShape
 import androidx.compose.ui.unit.dp
+import com.github.yohannestz.iconsax_compose.sample.util.IconCollector
 import com.github.yohannestz.iconsax_compose.sample.util.IconsaxEntry
 import kotlinx.coroutines.launch
 
 @Composable
 fun IconsaxBrowserScreen(
     modifier: Modifier = Modifier,
-    viewModel: MainViewModel = androidx.lifecycle.viewmodel.compose.viewModel()
 ) {
-    val state by viewModel.uiState.collectAsState()
+    val state by produceState<IconsaxUiState>(IconsaxUiState.Loading) {
+        val allIcons = IconCollector.collectAllIcons()
+        value = IconsaxUiState.Loaded(iconsByMode = allIcons.groupBy { it.mode })
+    }
     var selectedIcon by remember { mutableStateOf<IconsaxEntry?>(null) }
 
     Box(modifier = modifier.fillMaxSize()) {

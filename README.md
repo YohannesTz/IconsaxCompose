@@ -1,8 +1,10 @@
-# Iconsax Compose
+# Iconsax Compose Multiplatform
 
 [![](https://jitpack.io/v/YohannesTz/IconsaxCompose.svg)](https://jitpack.io/#YohannesTz/IconsaxCompose)
 
-A lightweight **Jetpack Compose icon library** providing the complete **Iconsax** icon set as strongly-typed, composable-friendly icons.
+A lightweight **Compose Multiplatform icon library** providing the complete **Iconsax** icon set as strongly-typed, composable-friendly icons.
+
+✅ Supports **Android, iOS, and Desktop (JVM)**.
 
 Designed to feel native to Compose while staying simple, fast, and dependency-light.
 
@@ -49,13 +51,27 @@ repositories {
 
 ### 2. Add the dependency
 
+For **Compose Multiplatform**, add it to the `commonMain` dependencies block (or via Jitpack if targeting branches directly):
+
+```kotlin
+kotlin {
+    sourceSets {
+        commonMain.dependencies {
+            implementation("com.github.YohannesTz:IconsaxCompose:1.0")
+        }
+    }
+}
+```
+
+For Android-only projects:
+
 ```gradle
 dependencies {
     implementation 'com.github.YohannesTz:IconsaxCompose:1.0'
 }
 ```
 
-Replace `<version>` with:
+Replace `1.0` with:
 
 * A **tag** (recommended), or
 * A **commit hash**, or

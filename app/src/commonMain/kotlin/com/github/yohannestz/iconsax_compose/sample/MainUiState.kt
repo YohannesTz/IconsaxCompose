@@ -17,16 +17,12 @@ sealed interface IconsaxUiState {
 fun loadIconsax(): Flow<IconsaxUiState> = flow {
     emit(IconsaxUiState.Loading)
 
+    val allIcons = IconCollector.collectAllIcons()
+    val groupedIcons = allIcons.groupBy { it.mode }
+
     emit(
         IconsaxUiState.Loaded(
-            mapOf(
-                "Bold" to IconCollector.collectBoldIcons(),
-                "Linear" to IconCollector.collectLinearIcons(),
-                "Outline" to IconCollector.collectOutlineIcons(),
-                "Bulk" to IconCollector.collectBulkIcons(),
-                "Broken" to IconCollector.collectBrokenIcons(),
-                "TwoTone" to IconCollector.collectTwoToneIcons()
-            )
+            iconsByMode = groupedIcons
         )
     )
-}.flowOn(Dispatchers.Default)
+}
